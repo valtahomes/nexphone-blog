@@ -4,6 +4,7 @@ date: 2026-07-30
 category: guides
 excerpt: US carriers require registration before a business can send texts — and the process is very different for local and toll-free numbers. Here's the honest comparison, including the fees nobody mentions up front.
 author: NexPhone Team
+cover: images/toll-free-vs-local-numbers-for-business-texting/cover.jpg
 faq:
   - q: Can I receive texts without any registration?
     a: Yes. Receiving texts and answering calls work immediately on both local and toll-free numbers — registration only gates SENDING.

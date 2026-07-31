@@ -4,6 +4,7 @@ date: 2026-07-31
 category: product
 excerpt: Texting registration got dramatically safer and clearer this month — guided consent setup, pre-submission checks that run the reviewer's checklist for you, and honest status screens.
 author: NexPhone Team
+cover: images/whats-new-july-2026/cover.jpg
 ---
 
 July was about one theme: making US texting registration — the part of business texting nobody enjoys —

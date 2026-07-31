@@ -4,6 +4,7 @@ date: 2026-07-27
 category: news
 excerpt: Every missed call is a customer calling your competitor next. NexPhone gives your business a real phone line with an AI receptionist that answers, takes the job down, and texts you the lead.
 author: NexPhone Team
+cover: images/introducing-nexphone/cover.jpg
 ---
 
 If you run a service business, your phone is your storefront — and it's unattended most of the day.
