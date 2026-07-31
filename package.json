@@ -1,0 +1,9 @@
+{
+  "name": "nexphone-blog",
+  "private": true,
+  "type": "module",
+  "description": "Content source for nexphone.ai/blog — markdown in posts/ is the CMS. See README.md.",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.600.0"
+  }
+}
