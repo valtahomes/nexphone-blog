@@ -13,7 +13,7 @@
  * Prints:  https://<R2_PUBLIC_URL>/blog/my-post-slug/demo.mp4   ← paste into the post
  */
 
-import { createReadStream, statSync } from 'node:fs'
+import { readFileSync } from 'node:fs'
 import { basename, extname } from 'node:path'
 import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3'
 
@@ -60,17 +60,23 @@ const client = new S3Client({
     accessKeyId: need('R2_ACCESS_KEY_ID'),
     secretAccessKey: need('R2_SECRET_ACCESS_KEY'),
   },
+  // R2 rejects the AWS SDK's newer default checksum/streaming-trailer headers with a bare AccessDenied
+  // (hit live on the first upload). WHEN_REQUIRED restores the classic behavior R2 speaks.
+  requestChecksumCalculation: 'WHEN_REQUIRED',
+  responseChecksumValidation: 'WHEN_REQUIRED',
 })
 
-const size = statSync(filePath).size
+// A whole-file Buffer, not a stream: R2 also dislikes the SDK's streaming trailers, and blog media is
+// megabytes at most — memory is not the constraint here, compatibility is.
+const body = readFileSync(filePath)
 await client.send(new PutObjectCommand({
   Bucket: bucket,
   Key: key,
-  Body: createReadStream(filePath),
+  Body: body,
   ContentType: contentType,
-  ContentLength: size,
+  ContentLength: body.length,
   // A year of immutable caching: media URLs are content-addressed by convention (new file = new name).
   CacheControl: 'public, max-age=31536000, immutable',
 }))
 
-console.log(`Uploaded ${(size / 1024).toFixed(0)} KB → ${publicBase}/${key}`)
+console.log(`Uploaded ${(body.length / 1024).toFixed(0)} KB → ${publicBase}/${key}`)
