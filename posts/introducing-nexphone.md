@@ -99,7 +99,7 @@ Some owners want the AI on every call. Others want their team to get first crack
 the evenings, the weekends, and the calls that would otherwise ring out. That's a setting, not a
 rebuild.
 
-![A stylist mid-appointment — both hands busy, phone ringing|wide](https://nexphone.ai/images/feature-stylist-client.webp)
+![A stylist mid-appointment — both hands busy, phone ringing](https://nexphone.ai/images/feature-stylist-client.webp)
 
 ## Every call becomes something you can read
 
