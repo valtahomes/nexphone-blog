@@ -1,23 +1,25 @@
 ---
-title: "Introducing NexPhone: a business phone that answers when you can't"
+title: "Introducing NexPhone: the AI receptionist that answers your business line"
 date: 2026-08-01
 category: news
-excerpt: Most small businesses don't lose customers to a competitor's better work. They lose them to a phone that rang four times and went to voicemail. NexPhone is a business line with an AI receptionist that picks up instead — takes the job down, and texts you the lead.
+excerpt: Most small businesses don't lose customers to a competitor's better work. They lose them to a phone that rang four times and went to voicemail. NexPhone is a business phone line with a voice AI receptionist that picks up 24/7 — answers from your own information, takes the job down, and texts you the lead.
 author: NexPhone Team
-cover: https://nexphone.ai/images/feature-landscaper.webp
+cover: https://nexphone.ai/images/owner-storefront-call.jpg
 faq:
+  - q: What is an AI receptionist?
+    a: "A voice AI agent that answers your business phone line and holds a real conversation with the caller — greeting them, answering questions from your own business information, taking their details, and passing anything it shouldn't handle to a human. Unlike an auto-attendant, there is no menu to navigate; the caller just talks."
   - q: Do I need a new phone or a second SIM?
     a: "No. NexPhone gives you a real US number that works on the phone you already carry — answer in the app, or forward the line to your cell. No new hardware, nothing on a desk."
   - q: Will callers know they're talking to an AI?
-    a: "It introduces itself with your business's name in a voice you chose, and it never pretends to be a specific person. Most callers experience it as a receptionist who knows the business well."
-  - q: What happens if the AI doesn't know the answer?
-    a: "It stops. It tells the caller someone will follow up and puts the call in your follow-up queue with a summary. It never invents an answer to fill a silence — that is the failure that costs you the customer."
+    a: "It introduces itself with your business's name in a voice you chose, and never pretends to be a specific person. Most callers experience it as a receptionist who knows the business well."
+  - q: What happens if the AI receptionist doesn't know the answer?
+    a: "It stops. It tells the caller someone will follow up and puts the call in your follow-up queue with an AI summary. It never invents an answer to fill a silence — that is the failure that costs you the customer."
+  - q: Does it record and transcribe calls?
+    a: "Every call is recorded, transcribed with speaker labels, and summarised in a line by AI. Hot and warm leads are flagged with a suggested next step, and everything needing a person lands in one shared follow-up list ranked by urgency."
   - q: Can I keep my existing business number?
     a: "Today you choose a new US number in the area code your customers expect. Porting an existing number is on the roadmap."
   - q: How long does setup take?
     a: "Most owners are answering calls the same day. Pick a number, tell the AI about your business, choose how calls should be answered."
-  - q: Can my team share the line?
-    a: "Yes. Calls ring everyone on shift at once and the first to pick up takes it. Every contact and conversation stays in your account, not on a teammate's phone."
 ---
 
 It is Tuesday at 4:40pm. You are on a roof, or under a sink, or halfway through a colour treatment
@@ -29,45 +31,44 @@ name on the list and booked with them.
 
 Nothing in that story is a failure of your work. It's a failure of your phone.
 
-## The ninety seconds you keep losing
-
-Small service businesses rarely lose customers because someone else did better work. They lose them in
-the ninety seconds between a customer deciding to call and somebody picking up. The competitor who won
-that job wasn't better than you. They just answered.
+:::callout
+Small service businesses rarely lose customers because someone else did better work.
+They lose them in the ninety seconds between a customer deciding to call and somebody picking up. The
+competitor who won that job wasn't better than you. They just answered.
+:::
 
 Most owners already know this, which is why so many end up doing one of three things: carrying the
-business on a personal cell and never being off; paying for an answering service that takes messages
-without knowing anything about the business; or accepting the leak and telling themselves it's the
-cost of being small.
+business on a personal cell and never being off; paying an answering service to take messages from
+people who know nothing about the business; or accepting the leak and calling it the cost of being
+small.
 
 NexPhone is a fourth option.
-
-![A landscaper mid-job, in no position to stop for the phone|wide](https://nexphone.ai/images/feature-landscaper.webp)
 
 ## What NexPhone is
 
 NexPhone is a business phone line — a real US number in the area code your customers expect — with an
-**AI receptionist that answers it when you can't**.
+**AI receptionist** that answers it when you can't.
 
-Not a voicemail box with a nicer greeting. Not a chatbot on your website. A voice that picks up your
-business line, in a full sentence, around the clock, and actually knows what your business does.
+Not a voicemail box with a nicer greeting. Not a phone menu. A **voice AI agent** that picks up your
+business line in a full sentence, around the clock, and actually knows what your business does.
 
-It answers the way a good receptionist answers: it knows your hours, your services and your prices, it
-takes the caller's details, and it texts you the moment one of those callers turns out to be a real
-job. When something comes up that it shouldn't handle alone, it says so and hands it to you rather
-than guessing.
+:::steps
+Someone calls :: Your line rings. If nobody on your team can pick up, the AI receptionist answers — in a voice you chose, using your business's name.
+It handles the call :: It answers from your hours, services and prices, takes the caller's name, number and what they need, and knows when to stop and hand off.
+You get the lead :: A real job texts you straight away. Every call comes back transcribed, summarised, and ranked in one follow-up list.
+:::
 
-Everything else in the product exists to serve that one promise: **the call gets answered, and you
-find out about it.**
+Everything else in the product serves that one promise: **the call gets answered, and you find out
+about it.**
 
 ## It answers from your information, not the internet
 
 This is what separates a useful AI receptionist from an embarrassing one.
 
 When you set up NexPhone you fill in your Business Info — your hours, the services you offer, your
-prices, the rules you want followed. That is the only place the receptionist answers from. Ask it what
-you charge for a callout and it quotes what you actually charge. Ask it something you never told it,
-and it doesn't improvise; it takes a message.
+prices, the rules you want followed. That is the **only** place the AI answers from. Ask it what you
+charge for a callout and it quotes what you actually charge. Ask it something you never told it and it
+doesn't improvise; it takes a message.
 
 Change a price in Business Info and the very next caller hears the new one. Nothing to re-record,
 nothing to retrain, no support ticket.
@@ -82,9 +83,15 @@ An AI that always has an answer is worse than no AI at all. A caller with a comp
 question, or someone who simply wants a human being does not want a confident machine — they want to
 be taken seriously.
 
-So the receptionist stops. It tells the caller someone will follow up, and it drops the call into your
-follow-up queue with the details. That restraint is deliberate, because inventing an answer to fill a
-silence is the one failure that turns a recoverable call into a lost customer and a bad review.
+So the receptionist stops. It tells the caller someone will follow up, and drops the call into your
+follow-up queue with the details.
+
+:::callout
+That restraint is deliberate.
+Inventing an answer to fill a silence is the one failure that turns a recoverable call into a lost
+customer and a one-star review. We would rather the AI say "let me get someone to call you back" a
+hundred times than guess once.
+:::
 
 ### It covers exactly the hours you choose
 
@@ -92,46 +99,56 @@ Some owners want the AI on every call. Others want their team to get first crack
 the evenings, the weekends, and the calls that would otherwise ring out. That's a setting, not a
 rebuild.
 
-## Every call comes back as something you can read
+![A stylist mid-appointment — both hands busy, phone ringing|wide](https://nexphone.ai/images/feature-stylist-client.webp)
 
-![A business owner taking down call details by hand — notes that live nowhere](https://nexphone.ai/images/feature-scattered-notes.webp)
+## Every call becomes something you can read
 
 Here's the second thing that quietly costs small businesses money. The call gets answered — and then
 the details live in someone's head, on the back of an invoice, or in a voicemail nobody replays.
 
-Every call through NexPhone, whether the AI answered it or you did, comes back recorded, transcribed
-with speaker labels, and summarised in a line. The mood, the names and the key topics are pulled out
-for you. At the end of a long day you scan a few lines instead of sitting through voicemails.
+Every call through NexPhone, whether the AI answered it or you did, comes back **recorded, transcribed
+with speaker labels, and summarised in a line** by AI. The mood, the names and the key topics are
+pulled out for you. At the end of a long day you scan a few lines instead of sitting through
+voicemails.
+
+:::stats
+1 line :: An AI summary of every call — what they wanted, at a glance
+Hot / warm :: Leads scored and labelled, each with a suggested next step
+One list :: Every follow-up your team owes someone, ranked by urgency
+:::
 
 More usefully, the calls that matter are marked. A quote request or a ready-to-book customer is
-flagged as a hot lead with a suggested next step; someone just comparing prices is marked warm.
-Everything needing a person — missed calls, quotes, an unhappy caller — lands in one shared follow-up
-list, ranked by urgency, that you and your team clear together.
+flagged as a hot lead; someone just comparing prices is marked warm. Everything needing a person —
+missed calls, quotes, an unhappy caller — lands in one shared follow-up list that you and your team
+clear together.
 
 And when a call genuinely can't wait, you get a text on your own phone with a one-tap link to the
 details. Routine calls don't buzz you. That distinction matters: a system that alerts you about
 everything is a system you learn to ignore.
 
-## Texting, because half your customers would rather not call
+## An AI that answers texts, too
 
 ![A shop owner answering a customer text between jobs](https://nexphone.ai/images/feature-texting-owner.webp)
 
 Plenty of customers won't ring at all. They text — and if nobody answers within the hour they move on
 just as fast as a caller would.
 
-NexPhone's SMS Assistant answers routine texts from the same Business Info the receptionist uses: your
-hours, your services, your FAQ. Anything needing a real person is acknowledged and flagged to your
-team rather than answered badly. Hot leads are surfaced with who they are and a suggested next step,
-so a ready-to-buy text never sits unread. There are templates for the replies you send all day, and
-one shared two-way inbox your whole team works from.
+NexPhone's **SMS Assistant** answers routine texts from the same Business Info the voice agent uses:
+your hours, your services, your FAQ. Anything needing a real person is acknowledged and flagged to
+your team rather than answered badly. Hot leads are surfaced with who they are and a suggested next
+step, so a ready-to-buy text never sits unread. There are templates for the replies you send all day,
+and one shared two-way inbox your whole team works from.
 
 And when you miss a call, the caller gets an automatic text back while their phone is still in their
 hand. A missed call becomes a conversation instead of a dead end.
 
-One honest note. In the US, business texting must be registered with the carriers before it reaches
-customers — a one-time filing called A2P, which exists to keep spam off the network. We prepare it the
-way the carriers want it, follow it through, and switch texting on once it clears. **Calls work from
-day one either way.** We'd rather say that up front than have you discover it after signing up.
+:::callout
+One honest note about US business texting.
+Carriers require a one-time registration (A2P) before your texts reach customers — it exists to keep
+spam off the network. We prepare the filing the way carriers want it and follow it through, and
+texting switches on once it clears. **Calls work from day one either way.** We'd rather say that up
+front than have you find out after signing up.
+:::
 
 ## A real phone system underneath
 
@@ -160,53 +177,50 @@ Using your personal cell as your business line creates two problems, and both ge
 The first is that you never get to be off. Your number is on your truck, your listing and every
 invoice you've ever sent, so 8pm on a Sunday belongs to whoever has it. With NexPhone you hand out one
 business number and keep your personal phone to yourself. When you're off the clock you're actually
-off — and genuinely urgent alerts still reach you on a private notification number that customers and
+off — and genuinely urgent alerts still reach you on a private notification number customers and
 teammates never see.
 
 The second problem is quieter and worse. If your helper's phone is where customers text, then your
 customer list lives on your helper's phone. When they move on, the relationship goes with them.
 
-With NexPhone every contact, call, recording and message lives in **your account**, tied to the
-business. Share the line with your whole team freely; when someone leaves, their access ends and your
-customers stay. Nothing walks out the door. And if you ever want it all somewhere else, you can export
-your call log and message history to a spreadsheet whenever you like — it's yours, and being easy to
-leave is part of being worth staying with.
+:::callout
+Every contact, call, recording and message lives in your account.
+Share the line with your whole team freely; when someone leaves, their access ends and your customers
+stay. Nothing walks out the door — and you can export the whole call log and message history to a
+spreadsheet whenever you like. Being easy to leave is part of being worth staying with.
+:::
 
 Run more than one business? Each gets its own number, team, menu, contacts and history under a single
 login, fully separate, switchable in a click.
 
 ## Who we built this for
 
-NexPhone is for businesses where the phone is the front door and the owner is also the crew:
+NexPhone is for businesses where the phone is the front door and the owner is also the crew.
 
-- **Home and field services** — electricians, plumbers, cleaners, landscapers, contractors. Your hands
-  are full and the phone won't stop. Calls ring the whole crew; when nobody can pick up, the AI takes
-  the job details and texts them to your cell.
-- **Shops and e-commerce** — "where's my order?", returns and "is this in stock?" answered from your
-  own FAQ, by phone or text, day or night, with anything tricky flagged to your team.
-- **Customer service teams** — an always-on front line, the AI taking overflow and after-hours while
-  everything else routes to the right teammate, without call-centre overhead.
-- **Clinics, consultants and solo founders** — a professional number that genuinely never goes
-  unanswered, every call summarised so you know who to call back, and your personal cell kept private.
-  A one-person operation with a real front desk.
+- **Home and field services** — electricians, plumbers, cleaners, landscapers, contractors. Your hands are full and the phone won't stop. Calls ring the whole crew; when nobody can pick up, the AI takes the job details and texts them to your cell.
+- **Shops and e-commerce** — "where's my order?", returns and "is this in stock?" answered from your own FAQ, by phone or text, day or night, with anything tricky flagged to your team.
+- **Customer service teams** — an always-on front line, the AI taking overflow and after-hours while everything else routes to the right teammate, without call-centre overhead.
+- **Clinics, consultants and solo founders** — a professional number that genuinely never goes unanswered, every call summarised so you know who to call back, and your personal cell kept private. A one-person operation with a real front desk.
 
 ## What it costs
 
 Plans start at **$20 a month** and include your number, a stated envelope of call minutes and texts,
-and free AI-receptionist minutes so you can try it on real calls before deciding it's worth more. Team
-plans add teammates and shared lines. When the AI starts earning its keep, more AI minutes are an
-add-on rather than a forced upgrade of everything else.
+and free AI-receptionist minutes so you can try the voice agent on real calls before deciding it's
+worth more. Team plans add teammates and shared lines. When the AI starts earning its keep, more AI
+minutes are an add-on rather than a forced upgrade of everything else.
 
 You won't find "unlimited*" anywhere in our pricing, and that's deliberate. Every plan states exactly
 what it includes, because a number you can plan around is worth more than a promise with an asterisk.
 
 ## Getting started
 
-Most owners are answering calls the same day:
+Most owners are answering calls the same day.
 
-1. **Pick your number** — a US number in the area code your customers expect.
-2. **Tell the AI about your business** — hours, services, prices. It answers from this and nothing else.
-3. **Choose how calls get answered** — AI on everything, or only when nobody's on shift.
+:::steps
+Pick your number :: A real US number in the area code your customers expect.
+Tell the AI about your business :: Hours, services, prices. It answers from this and nothing else.
+Choose how calls get answered :: AI on everything, or only when nobody's on shift.
+:::
 
 Then hand the number out and get back to work.
 
