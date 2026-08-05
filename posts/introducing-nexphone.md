@@ -17,7 +17,7 @@ faq:
   - q: Does it record and transcribe calls?
     a: "Every call is recorded, transcribed with speaker labels, and summarised in a line by AI. Hot and warm leads are flagged with a suggested next step, and everything needing a person lands in one shared follow-up list ranked by urgency."
   - q: Can I keep my existing business number?
-    a: "Today you choose a new US number in the area code your customers expect. Porting an existing number is on the roadmap."
+    a: "Yes. You pick a new US number when you sign up, then forward your existing line to it — customers go on dialling the number that's on your van and your listing, and those calls are answered, recorded and summarised here like any other. It takes a few minutes with your current carrier and you can undo it any time. Forwarding carries calls but not texts, so if you want your existing number to text as well, tell us and we'll move the number over to NexPhone properly."
   - q: How long does setup take?
     a: "Most owners are answering calls the same day. Pick a number, tell the AI about your business, choose how calls should be answered."
 ---
