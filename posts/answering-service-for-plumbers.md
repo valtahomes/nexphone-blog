@@ -175,42 +175,7 @@ Is this a rental? :: If a landlord or property manager has to approve the spend,
 An answering service that collects a name and a number has handed you a message. One that collects
 those four answers has handed you a qualified job you can price before you get in the van.
 
-## Where NexPhone fits
-
-NexPhone is a business phone line with an [AI receptionist](https://nexphone.ai/features/ai-receptionist)
-that answers it when you can't.
-
-It picks up on your line in a full sentence, at any hour, in a voice you chose, using your business's
-name. It answers from the information you gave it — your hours, your service area, your call-out
-charge, your rules — and nothing else. It takes the caller's name, number and what's actually wrong,
-and texts you the job. Every call comes back recorded, transcribed and summarised in a line, so a
-day's worth of calls is something you scan rather than sit through.
-
-And it stops when it should. Ask it something you never told it and it doesn't invent an answer; it
-tells the caller someone will follow up and drops the call into your follow-up list.
-
-:::stats
-Every call :: Answered on the first ring, including at 11pm
-Flat monthly :: No per-minute billing, so a busy month doesn't cost more
-One list :: Every follow-up you owe someone, ranked by urgency
-:::
-
-Two honest limits, because you'll find them out anyway. It **doesn't book into a calendar** — it takes
-the job and passes it to you, and you book it. And **texting needs a one-time carrier registration**
-before it can send, which takes a few business days; calls and voicemail work from day one.
-
-Plans start at **$20 a month** with your number included. Full pricing is on the
-[pricing page](https://nexphone.ai/pricing), and there's a longer walkthrough of how the receptionist
-works in [our introduction to NexPhone](https://nexphone.ai/blog/introducing-nexphone).
-
-## Getting started
-
-:::steps
-Pick your number :: A real US number in the area code your customers expect — or forward the number already on your van.
-Tell it about your business :: Hours, service area, call-out charge, what counts as an emergency. It answers from this and nothing else.
-Decide when it answers :: Every call, or only when nobody on your team picks up.
-:::
-
-Then go back to work, and let the next 11pm call be one you find out about.
-
-[Get your number →](https://nexphone.ai/signup)
+If you want the industry-wide breakdown of per-minute vs per-call vs flat, that lives in
+[what an answering service costs](/blog/answering-service-cost). The test for a plumbing company is
+still the same: what happens on the 11pm call, and what a month of that coverage actually costs
+against one emergency job.

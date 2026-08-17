@@ -8,13 +8,13 @@ cover: images/answering-service-cost/cover.webp
 draft: true
 faq:
   - q: How much does an answering service cost per month?
-    a: "A live answering service for a small business typically lands between $135 and $400 a month on a minute bundle. Per-call live plans can run much higher once you leave the included block. AI answering is cheaper, but only if you read the envelope — a $20 plan with 30 AI minutes is not the same product as a $300 live plan with 30 human calls."
+    a: "A live answering service for a small business typically lands between $135 and $400 a month on a minute bundle. Per-call live plans can run much higher once you leave the included block. AI answering is usually cheaper on the same volume, but only if you read the minutes or call cap — a cheap flat plan with a small envelope is not the same product as a $300 live plan with 30 human calls."
   - q: What is the difference between per-minute and per-call answering service pricing?
     a: "Per-minute bills talk time. A two-minute job and a twelve-minute complaint cost different amounts. Per-call bills each answered call the same, so short spam and long emergencies cost the same. Ask what counts as a call, and whether hang-ups and wrong numbers are billed, before you compare the two."
   - q: Are there hidden fees on answering service plans?
     a: "The common ones are full-minute rounding, after-hours or holiday surcharges, setup fees, billed hang-ups, and a four-week 'month' that produces a 13th invoice. 'Unlimited' almost always has a fair-use clause. Ask for the overage rate and the billing increment in writing."
   - q: Is an AI answering service cheaper than a live answering service?
-    a: "Usually, yes, on the same call volume. A live starter plan we checked on 17 August 2026 was $300 a month for 30 calls. An AI plan from the same company was $150 a month for 75 calls. The live agent can book a calendar and take a card. Most AI plans, including ours, cannot."
+    a: "Usually, yes, on the same call volume. A live starter plan we checked on 17 August 2026 was $300 a month for 30 calls. An AI plan from the same company was $150 a month for 75 calls. The live agent can book a calendar and take a card. Most AI answering products cannot."
   - q: Is an answering service cheaper than hiring a receptionist?
     a: "Yes, if all you need is the phone answered. The U.S. Bureau of Labor Statistics puts the median receptionist wage at $17.90 an hour, or $37,230 a year, as of May 2024. That is one person on one shift, before payroll tax and cover. It is the right hire if you also need a body at a desk. It is the wrong hire if the job is 'answer the 11pm call.'"
 ---
@@ -37,7 +37,7 @@ The three shapes you will be quoted:
 
 **Per call.** One fee per answered call. Typical 2026 band: **$1–$11 / call** (Nextiva, same date); live starters often sit at the top of that. The bill jumps when volume climbs, or when hang-ups and wrong numbers count as calls.
 
-**Flat / bundled.** A monthly fee for a stated envelope. Live bundles from about **$135** (Ambs); AI phone plans from **$20**. The bill jumps when you blow the envelope, or when the "unlimited" fair-use clause appears.
+**Flat / bundled.** A monthly fee for a stated envelope. Live bundles from about **$135** (Ambs). Nextiva puts AI answering at **$50–$300 a month**. The bill jumps when you blow the envelope, or when the "unlimited" fair-use clause appears.
 
 Do not pick from the headline rate. Price a month of *your* calls, including the ones that were spam, on each shape. Then decide.
 
@@ -96,12 +96,8 @@ Same 100 calls / 250 minutes, priced on pages we opened:
 - **Smith.ai live, Starter** — **$1,105** ($300 for 30 calls + 70 × $11.50). Source: Smith.ai live pricing page, 17 August 2026.
 - **Smith.ai live, Basic** — **$915** ($810 for 90 calls + 10 × $10.50). Same page, same date.
 - **Smith.ai AI, Pro** — **$212.50** ($150 for 75 calls + 25 × $2.50). Source: Smith.ai AI receptionist pricing page, 17 August 2026.
-- **NexPhone Pro + smallest AI add-on** — **$45** for the line and **160 AI minutes** (30 included + 130 added). 250 AI minutes does **not** fit. Source: NexPhone pricing page, 17 August 2026.
-- **NexPhone Team + same add-on** — **$65** for **190 AI minutes**. Still short of 250. Same page.
 
-Read that list twice. The same 100 calls cost anywhere from a few dozen dollars to more than a thousand, and the cheap end is not "unlimited AI." It is a stated envelope. If the AI is going to answer most of a 250-minute month, you buy a bigger AI plan (NexPhone publishes add-ons up to **$199/mo for 1,500 AI minutes**) or you stop pretending the $20 line is the whole bill.
-
-If the AI only answers the calls you miss — say 20 overflow calls at 2.5 minutes, 50 minutes — Team's included 60 AI minutes cover it with no add-on. That is a different product: overflow, not a full-time front desk.
+Read that list twice. The same 100 calls cost anywhere from about $200 to more than a thousand. The cheap end is not "unlimited AI." It is a stated envelope. If an AI is going to answer most of a 250-minute month, the included block on an entry plan usually will not cover it — you are buying a larger tier, or you are buying overflow for the calls you miss, not a full-time front desk.
 
 For a trade-specific walkthrough of the after-hours version of this maths, see [answering service for plumbers](/blog/answering-service-for-plumbers).
 
@@ -128,21 +124,13 @@ Prices move. These were on the vendor's own pricing page on **17 August 2026**. 
 - **$395/mo — 100 minutes**
 - **$720/mo — 200 minutes**
 - **$1,725/mo — 500 minutes**
-- They say no setup fee and no after-hours surcharge. They do take payments and book calendars. We do not.
-
-**NexPhone** (phone line + AI receptionist, envelope stated on the page)
-
-- **Pro $20/mo** — 300 call minutes, 290 texts, **30 AI-receptionist minutes**
-- **Team $40/mo** — 700 / 620 / **60 AI minutes**, 2 seats
-- **Business $80/mo** — 1,600 / 1,080 / **100 AI minutes**, 5 seats
-- Extra AI minutes start at **$25/mo for 130**, up to **$199/mo for 1,500**
-- Extra number **$5/mo** plus a **$2** setup fee. Extra seat **$7/mo**. Yearly billing saves 10% on the plan base.
+- They say no setup fee and no after-hours surcharge. They take payments and book calendars.
 
 AnswerConnect does not publish a price. Ignore any third-party blog that claims one.
 
 :::callout
 **Stay with a live service if this is you.**
-You need someone to book the job into a calendar, take a card, or type into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. NexPhone does not do those three things. Paying Smith or Ruby for them is rational. Paying us and hoping we added them is not.
+You need someone to book the job into a calendar, take a card, or type into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. Most AI answering products do not do those three things. Paying a live service for them is rational.
 :::
 
 ## What the invoice hides
@@ -181,32 +169,4 @@ Ask four questions :: What is a call? What is the increment? Who answers after 6
 Model a busy month :: Use your worst recent month, not the average. The bill rises when you can least sit down and read it.
 :::
 
-If the live quote is more than one emergency job, and the AI quote is less than one, the decision is not about features. It is about whether you will book the job yourself after the call.
-
-## Where NexPhone fits
-
-NexPhone is a business phone line with an [AI receptionist](/features/ai-receptionist) that answers it when you can't. We [introduced the product here](/blog/introducing-nexphone). This page is about the bill.
-
-It answers in a full sentence, at any hour, from the hours, services, prices and rules you uploaded. Not from the internet. It takes the caller's name, number and what they need, and texts you the lead. Every call is recorded, transcribed with speaker labels, and summarised in a line.
-
-It stops when it should. Ask it something you never told it and it does not invent an answer. It tells the caller someone will follow up and puts the call on your follow-up list.
-
-Honest limits, because the comparison table only works if we apply the same rules to ourselves:
-
-- It **does not book a calendar**.
-- It **does not take a payment**.
-- It **does not talk to Jobber, Housecall Pro or ServiceTitan**.
-- **Outbound texting is not day one.** Carrier registration (A2P 10DLC) takes a few business days and is a pass-through of about **$19 one-time plus about $2/mo**. Calls and voicemail work immediately.
-- Every plan has a **stated envelope**. Pro's 30 AI minutes will not cover a month where the AI answers most of a busy trade line. Buy the add-on, or use it as overflow.
-
-Plans start at **$20 a month**. The numbers, including the AI add-ons, are on the [pricing page](/pricing).
-
-:::steps
-Pick a number :: Local or toll-free, or forward the one already on the van.
-Tell it the business :: Hours, service area, call-out charge, what counts as an emergency.
-Decide when it answers :: Every call, or only when nobody picks up.
-:::
-
-If a live receptionist who books and bills on the call is what you need, hire one of those. If you need the line answered and the job handed to you, that is this.
-
-[Get your number →](https://nexphone.ai/signup)
+If the live quote is more than one emergency job, and the AI quote is less than one, the decision is not about the brand on the quote. It is about whether you will book the job yourself after the call.
