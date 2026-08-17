@@ -33,11 +33,11 @@ A live answering service for a small business typically costs **$135 to $400 a m
 
 The three shapes you will be quoted:
 
-| Shape | What you pay | Typical 2026 band | You pay more when |
-|---|---|---|---|
-| **Per minute** | Talk time, usually after a base fee | **$0.75–$1.50 / min** (Nextiva, 13 July 2026) | Calls run long, or the vendor rounds every call up to a full minute |
-| **Per call** | One fee per answered call | **$1–$11 / call** (Nextiva, same date); live starters often sit at the top of that | Volume climbs, or hang-ups and wrong numbers count as calls |
-| **Flat / bundled** | A monthly fee for a stated envelope | Live bundles from about **$135** (Ambs); AI phone plans from **$20** | You blow the envelope, or the "unlimited" fair-use clause appears |
+**Per minute.** You pay talk time, usually after a base fee. Typical 2026 band: **$0.75–$1.50 / min** (Nextiva, 13 July 2026). The bill jumps when calls run long, or when the vendor rounds every call up to a full minute.
+
+**Per call.** One fee per answered call. Typical 2026 band: **$1–$11 / call** (Nextiva, same date); live starters often sit at the top of that. The bill jumps when volume climbs, or when hang-ups and wrong numbers count as calls.
+
+**Flat / bundled.** A monthly fee for a stated envelope. Live bundles from about **$135** (Ambs); AI phone plans from **$20**. The bill jumps when you blow the envelope, or when the "unlimited" fair-use clause appears.
 
 Do not pick from the headline rate. Price a month of *your* calls, including the ones that were spam, on each shape. Then decide.
 
@@ -88,18 +88,18 @@ Industry pages love ranges. Ranges do not help you write a cheque. Here is the s
 
 **The model, labelled as a model.** 100 inbound calls in a month. Average handle 2.5 minutes. That is 250 billable minutes if every call is answered and timed that way. It is not a survey. It is a calculator. Swap in your own last-month log.
 
-| How you buy it | What the published price does to 100 calls / 250 min | Source, checked |
-|---|---|---|
-| Live per-minute at $1.50 | **$375**, before a base fee or rounding | Nextiva's stated per-minute band, 13 July 2026 |
-| Live minute bundle, 250 minutes | **$330–$525** | Ambs' 250-minute band, 2026 guide |
-| Ruby, 200-minute plan | **$720**, and 250 minutes does not fit | Ruby pricing page, 17 August 2026. Next published tier is **$1,725 / 500 min** |
-| Smith.ai live, Starter | **$1,105** ($300 for 30 calls + 70 × $11.50) | Smith.ai live pricing page, 17 August 2026 |
-| Smith.ai live, Basic | **$915** ($810 for 90 calls + 10 × $10.50) | Same page, same date |
-| Smith.ai AI, Pro | **$212.50** ($150 for 75 calls + 25 × $2.50) | Smith.ai AI receptionist pricing page, 17 August 2026 |
-| NexPhone Pro + smallest AI add-on | **$45** for the line and **160 AI minutes** (30 included + 130 added). 250 AI minutes does **not** fit | NexPhone pricing page, 17 August 2026 |
-| NexPhone Team + same add-on | **$65** for **190 AI minutes**. Still short of 250 | Same page |
+Same 100 calls / 250 minutes, priced on pages we opened:
 
-Read that table twice. The same 100 calls cost anywhere from a few dozen dollars to more than a thousand, and the cheap end is not "unlimited AI." It is a stated envelope. If the AI is going to answer most of a 250-minute month, you buy a bigger AI plan (NexPhone publishes add-ons up to **$199/mo for 1,500 AI minutes**) or you stop pretending the $20 line is the whole bill.
+- **Live per-minute at $1.50** — **$375**, before a base fee or rounding. Source: Nextiva's stated per-minute band, 13 July 2026.
+- **Live minute bundle, 250 minutes** — **$330–$525**. Source: Ambs' 250-minute band, 2026 guide.
+- **Ruby, 200-minute plan** — **$720**, and 250 minutes does not fit. Next published tier is **$1,725 / 500 min**. Source: Ruby pricing page, 17 August 2026.
+- **Smith.ai live, Starter** — **$1,105** ($300 for 30 calls + 70 × $11.50). Source: Smith.ai live pricing page, 17 August 2026.
+- **Smith.ai live, Basic** — **$915** ($810 for 90 calls + 10 × $10.50). Same page, same date.
+- **Smith.ai AI, Pro** — **$212.50** ($150 for 75 calls + 25 × $2.50). Source: Smith.ai AI receptionist pricing page, 17 August 2026.
+- **NexPhone Pro + smallest AI add-on** — **$45** for the line and **160 AI minutes** (30 included + 130 added). 250 AI minutes does **not** fit. Source: NexPhone pricing page, 17 August 2026.
+- **NexPhone Team + same add-on** — **$65** for **190 AI minutes**. Still short of 250. Same page.
+
+Read that list twice. The same 100 calls cost anywhere from a few dozen dollars to more than a thousand, and the cheap end is not "unlimited AI." It is a stated envelope. If the AI is going to answer most of a 250-minute month, you buy a bigger AI plan (NexPhone publishes add-ons up to **$199/mo for 1,500 AI minutes**) or you stop pretending the $20 line is the whole bill.
 
 If the AI only answers the calls you miss — say 20 overflow calls at 2.5 minutes, 50 minutes — Team's included 60 AI minutes cover it with no add-on. That is a different product: overflow, not a full-time front desk.
 
