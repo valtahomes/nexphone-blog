@@ -136,8 +136,9 @@ always one, and you will find it in the month you actually need the capacity.
 and expensive on a good one — which means your answering bill rises exactly when you're busiest and
 have least time to audit it. Model a busy month, not an average one.
 
-The comparison that matters isn't between two answering services. It's between what an answering
-service costs and what one missed emergency call costs. If your average emergency call-out is worth
+The comparison that matters isn't between two answering services. It's between
+[what an answering service costs](/blog/answering-service-cost) and what one missed emergency
+call costs. If your average emergency call-out is worth
 $400 and a service costs $250 a month, it needs to save you slightly more than one call a month to be
 free. Most plumbers know their own number for this instinctively.
 
