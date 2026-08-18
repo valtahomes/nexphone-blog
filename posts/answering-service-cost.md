@@ -5,7 +5,6 @@ category: guides
 excerpt: "Answering service cost in 2026: per-minute vs per-call vs flat, with a one-truck example and dated prices."
 author: NexPhone Team
 cover: images/answering-service-cost/cover.webp
-draft: true
 faq:
   - q: How much does an answering service cost per month?
     a: "A live answering service for a small business typically lands between $135 and $400 a month on a minute bundle. Per-call live plans can run much higher once you leave the included block. AI answering is usually cheaper on the same volume, but only if you read the minutes or call cap — a cheap flat plan with a small envelope is not the same product as a $300 live plan with 30 human calls."
@@ -24,8 +23,6 @@ It is Sunday, 8:41pm. A one-van HVAC owner is at the kitchen table with three PD
 One quote is $275 a month for 200 minutes. One is $9.75 a call with a 30-call minimum. One says "flat" $199 and, three paragraphs down, caps you at 75 calls. None of them say what a wrong number costs. None of them say who picks up at 11pm.
 
 That pile of PDFs is the whole problem. **Answering service cost** is not one number. It is a billing shape, plus a definition of "a call," plus whatever the plan does when you are actually busy.
-
-![A one-truck owner comparing answering-service quotes at the kitchen table on a Sunday night.|wide](images/answering-service-cost/cover.webp)
 
 ## The short answer
 

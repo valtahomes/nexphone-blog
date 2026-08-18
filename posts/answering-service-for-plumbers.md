@@ -4,7 +4,6 @@ date: 2026-08-17
 category: guides
 excerpt: What a plumbing answering service costs, the three kinds you can buy, and how to judge one on the only call that matters — the emergency at 11pm.
 author: NexPhone Team
-draft: true
 faq:
   - q: How much does an answering service for plumbers cost?
     a: "Most plumbing answering services fall into three pricing shapes. Per-minute plans run roughly $1.00–$2.00 a minute after a base fee, so a busy month lands somewhere between $200 and $600. Per-call plans charge around $2–$5 a call. Flat-rate AI answering runs $20–$200 a month regardless of volume. The number that matters is not the headline rate — it's what a month of your actual call volume costs, including the calls that were wrong numbers."
