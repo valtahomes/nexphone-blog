@@ -39,7 +39,7 @@ month to make sure it does.
 **What it costs:** most plumbing answering services land between **$200 and $600 a month** on a
 per-minute plan, roughly **$2–$5 per call** on a per-call plan, or **$20–$200 a month flat** for an AI
 answering service that doesn't bill by volume. Prices move, so treat those as shapes rather than
-quotes — and always price it against *your* call volume, not the headline rate.
+quotes — and always price it against your call volume, not the headline rate.
 
 **What you're actually choosing between:** a live call centre that takes messages, a virtual
 receptionist who works from your script, or an AI receptionist that answers instantly and passes the
@@ -58,7 +58,7 @@ $200–$600/mo :: typical live plumbing answering service on a per-minute plan, 
 ## Why plumbing is a worst case for missed calls
 
 Most businesses lose a missed call and lose a customer. Plumbing loses a missed call and loses an
-*emergency* customer, which is a different economic event.
+emergency customer, which is a different economic event.
 
 [Angi's 2026 emergency plumber guide](https://www.angi.com/articles/emergency-plumber-cost.htm)
 (updated 9 July 2026) puts after-hours labour at **$100 to $500 an hour**, averaging about **$170**,
