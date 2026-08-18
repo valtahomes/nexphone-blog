@@ -2,8 +2,9 @@
 title: "Answering Service for Plumbers: What It Costs and What Happens at 11pm"
 date: 2026-08-17
 category: guides
-excerpt: What a plumbing answering service costs, the three kinds you can buy, and how to judge one on the only call that matters — the emergency at 11pm.
+excerpt: "Answering service for plumbers: typical cost, the three kinds you can buy, and what to test on the 11pm emergency call."
 author: NexPhone Team
+cover: images/answering-service-for-plumbers/cover.webp
 faq:
   - q: How much does an answering service for plumbers cost?
     a: "Most plumbing answering services fall into three pricing shapes. Per-minute plans run roughly $1.00–$2.00 a minute after a base fee, so a busy month lands somewhere between $200 and $600. Per-call plans charge around $2–$5 a call. Flat-rate AI answering runs $20–$200 a month regardless of volume. The number that matters is not the headline rate — it's what a month of your actual call volume costs, including the calls that were wrong numbers."
@@ -24,7 +25,7 @@ they are calling every plumber on the first page of Google until somebody picks 
 They will not leave a voicemail. They will not call back in the morning. The plumber who answers that
 call gets a job worth several hundred dollars and probably a customer for the next decade.
 
-An answering service exists so that plumber is you.
+An answering service for plumbers exists so that plumber is you.
 
 :::callout
 This guide is about the only test that matters.
@@ -48,10 +49,21 @@ you get and how much of your margin a missed one costs.
 **What to judge it on:** not the greeting. The escalation. What happens between the caller saying
 "there's water everywhere" and your phone buzzing.
 
+:::stats
+$100–$500/hr :: Angi (updated 9 July 2026) for emergency plumber labour, plus a $150–$300 trip fee on many tickets
+$62,970 :: BLS May 2024 median annual wage for plumbers, pipefitters and steamfitters — what it costs to put another licensed body on the phone
+$200–$600/mo :: typical live plumbing answering service on a per-minute plan, once you include the quiet wrong-number minutes
+:::
+
 ## Why plumbing is a worst case for missed calls
 
 Most businesses lose a missed call and lose a customer. Plumbing loses a missed call and loses an
 *emergency* customer, which is a different economic event.
+
+[Angi's 2026 emergency plumber guide](https://www.angi.com/articles/emergency-plumber-cost.htm)
+(updated 9 July 2026) puts after-hours labour at **$100 to $500 an hour**, averaging about **$170**,
+with holiday rates up to **$600** and a separate trip fee of **$150 to $300**. That is the ticket
+walking out the door when the phone rings four times and goes to voicemail.
 
 Three things make the trade unusually punishing:
 
@@ -69,7 +81,7 @@ recording they hang up and dial the next result.
 Any answering service worth paying for has to be good at exactly the moment you are least able to
 answer — which is why the sales page matters much less than the escalation rules.
 
-## The three kinds you can actually buy
+## The three kinds of answering service for plumbers
 
 ### 1. A traditional live answering service (a call centre)
 
@@ -107,6 +119,11 @@ doesn't punish a busy month. It never has an off night and never quits.
 a caller with a complaint or an unusual situation needs a person, and a confident wrong answer costs
 you more than a message would have.
 
+Most AI answering products do **not** book a calendar, take a card, or type into Jobber or
+ServiceTitan while the caller is still on the line. If those three things are the job, you are buying
+a live service. If the job is "answer the 11pm call, qualify it, and get it to me," AI is usually the
+cheaper tool.
+
 :::callout
 The single best question to ask any AI answering service:
 "What does it do when it doesn't know the answer?" If the honest answer is anything other than "it
@@ -114,17 +131,39 @@ stops and hands off to a human," keep looking. Improvising is the failure mode t
 recoverable call into a lost customer and a one-star review.
 :::
 
-## What it costs, honestly
+## What a plumbing answering service costs
 
 Pricing in this category is deliberately hard to compare, because the three models hide cost in
-different places.
+different places. The industry-wide breakdown lives in
+[what an answering service costs](/blog/answering-service-cost). The plumbing-specific version is
+below.
 
-| Model | Typical shape | You pay more when | Watch out for |
-|---|---|---|---|
-| **Per minute** | Base fee + roughly $1.00–$2.00/min | Calls run long, or you get lots of them | Hold time, wrong numbers and spam all billed as minutes; rounding up to the minute |
-| **Per call** | Roughly $2–$5 per answered call | Volume climbs | What counts as a "call" — some bill hang-ups and robocalls |
-| **Flat monthly** | Roughly $20–$200/mo | Rarely — that's the point | Whether there's a minutes cap, and what overage costs |
-| **In-house (hiring)** | Wages + payroll tax + cover | Always, and it doesn't scale down | One person cannot cover 24/7; holidays and sick days are your problem |
+**Per minute**
+
+- Shape: a base fee plus roughly **$1.00–$2.00 a minute**
+- You pay more when: calls run long, or you get a lot of them
+- Watch: hold time, wrong numbers and spam all billed as minutes; rounding up to the full minute
+
+**Per call**
+
+- Shape: roughly **$2–$5 per answered call**
+- You pay more when: volume climbs
+- Watch: what counts as a "call" — some bill hang-ups and robocalls
+
+**Flat monthly (usually AI)**
+
+- Shape: roughly **$20–$200 a month**
+- You pay more when: rarely — that's the point
+- Watch: whether there's a minutes cap, and what overage costs
+
+**Hiring instead**
+
+The [Bureau of Labor Statistics *Occupational Outlook Handbook*](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm)
+(last modified 28 August 2025) puts the median plumber wage at **$62,970 a year, $30.27 an hour**,
+from May 2024 data. That is one licensed person, on one shift. It does not cover lunch, sick days, or
+the Saturday the pipe bursts. A receptionist is cheaper — BLS has that median at **$17.90 an hour** —
+and still cannot cover 24/7. Hiring is the right move if you also need a body at a desk. It is the
+wrong move if the job is "answer the 11pm call."
 
 Two traps in particular.
 
@@ -135,11 +174,20 @@ always one, and you will find it in the month you actually need the capacity.
 and expensive on a good one — which means your answering bill rises exactly when you're busiest and
 have least time to audit it. Model a busy month, not an average one.
 
+### A one-truck example
+
+Say you take **80 inbound calls a month**, half of them after 5pm, and your average emergency
+call-out — labour plus trip — lands around **$400**. That is conservative against Angi's ranges.
+
+- A **$250/month** live answering service has to save you slightly more than half an emergency a
+  month to be free.
+- A **$80/month** flat AI plan has to save you one emergency every five months.
+- Missing **one** Saturday burst-pipe because nobody picked up wipes out either invoice.
+
 The comparison that matters isn't between two answering services. It's between
 [what an answering service costs](/blog/answering-service-cost) and what one missed emergency
-call costs. If your average emergency call-out is worth
-$400 and a service costs $250 a month, it needs to save you slightly more than one call a month to be
-free. Most plumbers know their own number for this instinctively.
+call costs. Most plumbers know their own number for this instinctively. Write it down before you take
+the sales call.
 
 ## What to ask before you sign
 
@@ -158,6 +206,9 @@ Six questions, in order of how much money they will save you:
 5. **"What happens to the details after the call?"** A message you have to re-key is a message you
    will lose. Ask what you actually receive and where it lands.
 6. **"What's the cancellation term?"** Annual lock-ins are common in this category.
+
+Do not skip the Sunday-night question. A plumbing answering service that is excellent at 10am and
+outsourced at 11pm is two different products sold as one.
 
 ## The four questions your answering service should ask every caller
 
