@@ -229,3 +229,22 @@ If you want the industry-wide breakdown of per-minute vs per-call vs flat, that 
 [what an answering service costs](/blog/answering-service-cost). The test for a plumbing company is
 still the same: what happens on the 11pm call, and what a month of that coverage actually costs
 against one emergency job.
+
+## Where NexPhone fits
+
+Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
+
+NexPhone is the third kind on that list — an AI receptionist on a real US business line, from about **$20 a month** solo and **$45** for a team. Plans are on the [pricing page](https://nexphone.ai/pricing). It answers every call on the first ring, at any hour, holds a real conversation using the information you gave it about your business, and texts you the job with a transcript and a summary.
+
+Against the four questions above: it will ask what you tell it to ask. Water running, shut-off, address, rental — that is a script, and scripts are the part AI is genuinely good at. It does not have an off night, and it does not decide your 11pm call is somebody else's problem.
+
+:::callout
+**Stay with a live call centre if you need any of these.**
+The job booked straight into a calendar. A deposit taken over the phone. Details typed into Jobber, Housecall Pro or ServiceTitan while the homeowner is still talking. NexPhone does not do those three things, and no amount of wanting it to will change that this quarter. If dispatch-and-book is the product you are shopping for, pay a live service for it.
+:::
+
+Where it stops is judgement. An angry customer, a complaint, anything it was not told about — it hands to a person and says so, rather than guessing. That is deliberate. An AI that invents an answer to fill a silence costs you the customer more thoroughly than voicemail does.
+
+Before you sign up: business texting needs a one-time carrier registration that takes a few business days. Calls and voicemail work from day one, and your existing number keeps working — forward the line on your van and your Google listing straight to it.
+
+A year of coverage costs less than one burst-pipe job at 11pm is worth. [Start here](https://nexphone.ai).

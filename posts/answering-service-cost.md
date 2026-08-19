@@ -167,3 +167,20 @@ Model a busy month :: Use your worst recent month, not the average. The bill ris
 :::
 
 If the live quote is more than one emergency job, and the AI quote is less than one, the decision is not about the brand on the quote. It is about whether you will book the job yourself after the call.
+
+## Where NexPhone fits
+
+Everything above is the market. This section is us, so read it with that in mind.
+
+NexPhone is the flat shape: a real US business number with an AI receptionist answering it, from about **$20 a month** solo and **$45** for a team. Current plans and what each includes are on the [pricing page](https://nexphone.ai/pricing) — we are deliberately not restating them here, because every other number in this guide carries the date we checked it, and a plan page moves faster than a blog post.
+
+:::callout
+**Buy a live service instead if any of these is a yes.**
+You need the job booked into a calendar, a card taken over the phone, or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. NexPhone does none of those three. If that is the job, Ruby or Smith are the rational purchase, and the price gap between them and us is roughly what those three things cost.
+:::
+
+What it does do is answer — at 11pm, on a Sunday, in a real conversation rather than a phone tree — using the information you uploaded about your own business. Then it records the call, transcribes it, summarises it in a line, and texts you the lead. If what is costing you money is the phone ringing four times and going to voicemail, a year of that costs less than a single after-hours call-out is worth.
+
+One thing to know before you sign up: business texting needs a one-time carrier registration that takes a few business days. Calls and voicemail work from day one.
+
+Pick a number, tell it about your business, forward your existing line to it. Most owners are answering calls the same day. [Start here](https://nexphone.ai).
