@@ -22,7 +22,7 @@ It is Sunday, 8:41pm. A one-van HVAC owner is at the kitchen table with three PD
 
 One quote is $275 a month for 200 minutes. One is $9.75 a call with a 30-call minimum. One says "flat" $199 and, three paragraphs down, caps you at 75 calls. None of them say what a wrong number costs. None of them say who picks up at 11pm.
 
-That pile of PDFs is the whole problem. **Answering service cost** is not one number. It is a billing shape, plus a definition of "a call," plus whatever the plan does when you are actually busy.
+That pile of PDFs is the problem. **Answering service cost** is a billing shape, plus a definition of "a call," plus whatever the plan does when you are busy.
 
 ## The short answer
 
@@ -43,7 +43,7 @@ Do not pick from the headline rate. Price a month of *your* calls, including the
 The cost is the bill plus every job that still went to voicemail. A $250 plan that misses the after-hours emergency is more expensive than a $400 plan that catches it.
 :::
 
-## What the three pricing models actually charge you for
+## What the three pricing models charge you for
 
 ### Per-minute
 
@@ -83,7 +83,7 @@ $37,230 :: Median U.S. receptionist wage, May 2024 (BLS)
 
 Industry pages love ranges. Ranges do not help you write a cheque. Here is the same month run through the three shapes, using numbers a one-truck trade actually sees.
 
-**The model, labelled as a model.** 100 inbound calls in a month. Average handle 2.5 minutes. That is 250 billable minutes if every call is answered and timed that way. It is not a survey. It is a calculator. Swap in your own last-month log.
+**The model.** 100 inbound calls in a month. Average handle 2.5 minutes. That is 250 billable minutes if every call is answered and timed that way. Swap in your own last-month log.
 
 Same 100 calls / 250 minutes, priced on pages we opened:
 

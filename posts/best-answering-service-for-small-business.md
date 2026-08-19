@@ -25,11 +25,10 @@ drive home, with soil on the screen, and open the first three results that look
 like a comparison.
 
 :::callout
-**There is no single best answering service.**
-There is a best service for the job you need done — a live person who can book
-and take a card, or a voice that answers every call and hands you the lead.
-Those are different products. Mixing them up is how a $49 plan and a $720 plan
-end up in the same shopping tab.
+**Pick the job first, then the vendor.**
+A live person who can book and take a card is one product. A voice that answers
+every call and hands you the lead is another. Mixing them up is how a $49 plan
+and a $720 plan end up in the same shopping tab.
 :::
 
 ## The short answer
@@ -45,9 +44,8 @@ starts at **$49 a month** (Rosie, 250 minutes) and **$99 a month** (Nextiva XBer
 works from your script, or an AI receptionist that answers instantly and passes
 the job to you. They fail in different ways.
 
-**What to judge it on:** not the greeting. Whether the 11pm call gets triaged,
-whether it reaches you, and what that month costs once you include the wrong
-numbers.
+**What to judge it on:** whether the 11pm call gets triaged, whether it reaches
+you, and what that month costs once you include the wrong numbers.
 
 :::stats
 $50–$300/mo :: Typical AI answering band (Nextiva cost guide, 13 July 2026)
@@ -55,7 +53,7 @@ $100–$1,000+/mo :: Typical live answering band (same guide, same date)
 $37,230 :: Median US receptionist wage, May 2024 (BLS Occupational Outlook Handbook)
 :::
 
-## What you are actually choosing
+## What you are choosing
 
 This query mixes three products.
 
@@ -82,9 +80,9 @@ is usually cheaper.
 We opened each vendor's own pricing page on **19 August 2026**. No affiliate
 roundups, no composite score. Each one wins a specific job.
 
-Live first, then hybrid, then AI — that is still what most people mean by
-"answering service." A higher slot is a different job, not a better product.
-Prices move. Check the page next month.
+Live first, then hybrid, then AI, because that is still what most people mean
+by "answering service." A higher slot wins a different job. Prices move. Check
+the page next month.
 
 Left out: Moneypenny (formerly VoiceNation) — homepage says live "from $132/mo"
 and AI "from $99/mo," without a full public grid. Phone systems that route but
@@ -113,8 +111,8 @@ same rate as Tuesday morning.
 plan you are paying **$5 a minute**. They do not publish overage, so 250 minutes
 does not fit the $720 plan and the next published step is $1,725.
 
-Buy Ruby if a human voice *and* the extra jobs (calendar, card) are the product.
-It is not cheap overflow.
+Buy Ruby if you want a human voice plus calendar and card. Skip it as overflow
+coverage. Fifty minutes will not cover a trade month.
 
 ### 2. Smith.ai — best if you want to pay per call, live or AI
 
@@ -318,8 +316,8 @@ What do you actually receive after the call? :: A message you have to re-key is 
 What is the cancellation term? :: Annual lock-ins are common. Ruby, Smith, Abby and PATLive all say month-to-month on the pages we checked. Get it in the order form.
 :::
 
-Do not skip the Sunday-night question. A service that is excellent at 10am and
-outsourced at 11pm is two products sold as one.
+A service that is excellent at 10am and outsourced at 11pm is two products sold
+as one. Ask the Sunday-night question first.
 
 Before you pay a second invoice, call your own line after hours from a number
 that is not in your contacts. It should pick up, sound like your business, ask
@@ -346,10 +344,10 @@ phone tree. That is the job the seven vendors above are for.
 
 ## Where NexPhone fits
 
-Everything above is the market. This section is us, so read it with that in mind.
+This section is us, so read it with that in mind.
 
-NexPhone is an AI receptionist on a real US business line — the third kind on
-the list at the top, not a live call centre. It starts at about **$20 a month**.
+NexPhone is an AI receptionist on a real US business line, the third kind on
+the list at the top. It starts at about **$20 a month**.
 Plans and the AI-minute envelope on each one are on the
 [pricing page](https://nexphone.ai/pricing). We are not restating the grid here.
 A plan page moves faster than a blog post.

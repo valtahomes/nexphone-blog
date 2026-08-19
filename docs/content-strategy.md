@@ -316,6 +316,9 @@ Match its voice, structure and formatting. Specifically:
   renderer does not parse markdown tables in post bodies.
 - Admit the product's limits somewhere. It builds more trust than it costs.
 - No hype, no "in today's fast-paced world", no AI filler.
+- After the first draft, run a deslop pass against [`docs/anti-slop.md`](anti-slop.md). The VPS
+  writer does this as a second Grok call before the checklist. Do not ship a draft that still
+  has binary contrasts, negative listings, colon reveals, or banned words.
 
 ### Custom blocks
 

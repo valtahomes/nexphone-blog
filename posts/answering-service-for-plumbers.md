@@ -25,8 +25,6 @@ they are calling every plumber on the first page of Google until somebody picks 
 They will not leave a voicemail. They will not call back in the morning. The plumber who answers that
 call gets a job worth several hundred dollars and probably a customer for the next decade.
 
-An answering service for plumbers exists so that plumber is you.
-
 :::callout
 This guide is about the only test that matters.
 Any answering service can take a message during business hours. The question is what happens on the
@@ -46,7 +44,7 @@ receptionist who works from your script, or an AI receptionist that answers inst
 job to you. They fail in different ways, and the right answer depends on how many after-hours calls
 you get and how much of your margin a missed one costs.
 
-**What to judge it on:** not the greeting. The escalation. What happens between the caller saying
+**What to judge it on:** the escalation. What happens between the caller saying
 "there's water everywhere" and your phone buzzing.
 
 :::stats
