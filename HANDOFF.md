@@ -36,7 +36,7 @@ experiment abandoned same day.
 
 ## Writer / VPS
 
-- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`) and generates the cover (`grok-imagine-image-2.0`). Do not publish a guide without `cover: images/<slug>/cover.webp`.
+- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. Do not publish a guide without `cover: images/<slug>/cover.webp`.
 - Orchestrator: `trader@82.180.133.216:~/nexphone-blog-agent/` (own `.env` chmod 600, own clone, own systemd timer). SSH key `~/.ssh/hostinger_trading`.
 - Secrets live only on the VPS `.env` (xAI key + GitHub deploy key). Paths, never values, in this file.
 - Keyword snapshot stays at `~/nexphone-seo/` on the same box. Do not mix with trading dirs.

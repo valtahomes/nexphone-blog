@@ -334,7 +334,7 @@ date: 2026-08-19          # today, YYYY-MM-DD
 category: guides              # news | product | guides — see §3
 excerpt: One sentence for the Google result. MUST be under 155 characters.
 author: NexPhone Team
-cover: images/<slug>/cover.webp   # required — cinematic still, ≤300KB
+cover: images/<slug>/cover.webp   # required — real Pexels photo, ≤300KB
 draft: true               # always — Alex publishes
 faq:                      # 4-5 entries targeting real long-tail searches
   - q: A real question someone would search?
