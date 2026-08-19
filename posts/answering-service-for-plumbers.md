@@ -226,9 +226,10 @@ An answering service that collects a name and a number has handed you a message.
 those four answers has handed you a qualified job you can price before you get in the van.
 
 If you want the industry-wide breakdown of per-minute vs per-call vs flat, that lives in
-[what an answering service costs](/blog/answering-service-cost). The test for a plumbing company is
-still the same: what happens on the 11pm call, and what a month of that coverage actually costs
-against one emergency job.
+[what an answering service costs](/blog/answering-service-cost). If you are still choosing a vendor,
+[the best answering services for small business](/blog/best-answering-service-for-small-business)
+prices them on one month of calls. The test for a plumbing company is still the same: what happens
+on the 11pm call, and what a month of that coverage actually costs against one emergency job.
 
 ## Where NexPhone fits
 

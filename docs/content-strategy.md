@@ -148,7 +148,7 @@ Six clusters. The cluster a keyword belongs to determines what it links to.
 | 1 | **AI receptionist category** — the growth engine | `ai-receptionist-for-small-business` | Not written |
 | 2 | **Price & cost** — the money cluster | `answering-service-cost` | ✅ Published |
 | 3 | **Home-service trades** — the high-CPC cluster | `answering-service-for-plumbers` | ✅ Published |
-| 4 | **Competitor switch & alternatives** — KD 0 bottom-of-funnel | `best-answering-service-for-small-business` | Not written |
+| 4 | **Competitor switch & alternatives** — KD 0 bottom-of-funnel | `best-answering-service-for-small-business` | ✅ Published |
 | 5 | **Missed calls, texting & phone-line mechanics** | `missed-call-text-back` | Not written |
 | 6 | **Property management & multi-unit** — adjacent pool | `answering-service-for-property-management` | Not written |
 
@@ -168,7 +168,7 @@ trend · **Stage** = conversion treatment from §2.
 
 | # | Keyword | Vol | KD | CPC | Intent | YoY | Stage |
 |---|---|---|---|---|---|---|---|
-| 1 | best answering service for small business | 720 | 13 | $207.71 | commercial | +49% | BOFU |
+| 1 | best answering service for small business | 720 | 13 | $207.71 | commercial | +49% | BOFU ✅ |
 | 2 | answering service for plumbers | 480 | 0 | $330.75 | navigational | +69% | BOFU ✅ |
 | 3 | ai receptionist for small business | 1,000 | 4 | $51.82 | commercial | **+519%** | BOFU |
 | 4 | best ai receptionist for small business | 260 | 15 | $68.40 | commercial | **+680%** | BOFU |
@@ -265,12 +265,12 @@ Check this list before adding an internal link. If it is not here, do not link t
 | `/blog/introducing-nexphone` | — (launch post) | Live |
 | `/blog/answering-service-for-plumbers` | answering service for plumbers | Live |
 | `/blog/answering-service-cost` | answering service cost | Live |
+| `/blog/best-answering-service-for-small-business` | best answering service for small business | Live |
 
 Also live and safe to link: `nexphone.ai/pricing`, the `/features/` pages, `nexphone.ai`.
 
-**Both published guides currently have no CTA.** They were stripped on 17 August. Under §2 they should
-each get a "Where NexPhone fits" block and a close. That is the fastest conversion win available — two
-edits to pages that already rank, rather than two new articles.
+When a new URL goes live, re-read every published post and add one natural link to it. Do not
+link to drafts. A broken internal link is worse than a missing one.
 
 ---
 
@@ -393,7 +393,38 @@ Run this before anything goes to Alex.
   quarter.
 - **Do not use GFM tables in post bodies.** The renderer drops them.
 - **Do not rename a published file.** The filename is the permanent URL.
-- **Do not write more than 2–3 articles a week.** The cadence is deliberate.
+
+---
+
+## 8a. Cadence (agreed 19 August 2026)
+
+**Launch sprint, through 30 September 2026:** **4 unique BOFU/MOFU guides per week.**
+Monday–Thursday one new URL each day. Friday is internal links and CTA checks — not a fifth URL.
+Weekends are off.
+
+**Steady state, from 1 October 2026 (or earlier if GSC is already showing impressions):** **2–3
+guides per week.** If a live URL is stuck at positions 11–20 after 8+ weeks, expanding it beats
+writing a sibling.
+
+**Never daily. Never a fifth new URL in a week. Never a page per keyword variant.**
+
+Why 4, not 2: this domain has no Search Console history. Rankings look dead for ~6 weeks even when
+the page is fine. That clock starts at publish. Four distinct commercial URLs a week starts sixteen
+conversion pages in a month instead of eight.
+
+Why not 5+: the Valta lesson (daily thin posts cut impressions ~60%) and the honesty bar. A BOFU
+comparison with undated prices or invented features costs more than a delayed HVAC page.
+
+Writer: **Grok** (`grok-4.6` via the xAI API), orchestrated on the VPS. See
+`~/nexphone-blog-agent/` on `trader@82.180.133.216`. Human (Alex) can still un-publish by
+re-adding `draft: true`.
+
+Order for the rest of the launch sprint, after the comparison pillar:
+
+1. `ai-receptionist-for-small-business` (cluster 1 pillar, +519%)
+2. `hvac-answering-service`
+3. `ai-receptionist-pricing` (+450%)
+4. `missed-call-text-back`
 
 ---
 

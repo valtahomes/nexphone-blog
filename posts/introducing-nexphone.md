@@ -212,7 +212,8 @@ minutes are an add-on rather than a forced upgrade of everything else.
 You won't find "unlimited*" anywhere in our pricing, and that's deliberate. Every plan states exactly
 what it includes, because a number you can plan around is worth more than a promise with an asterisk.
 How that sits against per-minute and per-call live services is in
-[what an answering service costs](/blog/answering-service-cost).
+[what an answering service costs](/blog/answering-service-cost). The vendor-by-vendor
+comparison is [the best answering services for small business](/blog/best-answering-service-for-small-business).
 
 ## Getting started
 

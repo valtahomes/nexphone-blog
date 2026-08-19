@@ -96,7 +96,7 @@ Same 100 calls / 250 minutes, priced on pages we opened:
 
 Read that list twice. The same 100 calls cost anywhere from about $200 to more than a thousand. The cheap end is not "unlimited AI." It is a stated envelope. If an AI is going to answer most of a 250-minute month, the included block on an entry plan usually will not cover it — you are buying a larger tier, or you are buying overflow for the calls you miss, not a full-time front desk.
 
-For a trade-specific walkthrough of the after-hours version of this maths, see [answering service for plumbers](/blog/answering-service-for-plumbers).
+For a trade-specific walkthrough of the after-hours version of this maths, see [answering service for plumbers](/blog/answering-service-for-plumbers). The vendor-by-vendor version of the same month is [the best answering services for small business](/blog/best-answering-service-for-small-business).
 
 ## Dated prices from pages we opened today
 
