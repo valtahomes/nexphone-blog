@@ -30,7 +30,7 @@ experiment abandoned same day.
 
 ## Next URLs (conversion order)
 
-1. `hvac-answering-service`
+1. `hvac-answering-service` — **Mon 24 Aug 2026, 10:30 America/New_York**. This week is already 4/4 (plumbers, cost, comparison, AI receptionist), so the Thu 20 Aug timer fires and no-ops.
 2. `ai-receptionist-pricing`
 3. `missed-call-text-back`
 
