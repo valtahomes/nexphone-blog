@@ -170,14 +170,19 @@ Use these slugs in frontmatter. Do not invent others.
 
 **Do not use `guides` or `product` on new posts.** `product` stays empty on purpose — release notes do not get a blog pillar (they rank for nothing). `guides` was the catch-all; it is retired. Cluster 6 (property management) does not get a category — one page, file it under `answering-service` if it is ever written.
 
-A query-string filter (`/blog?category=trades`) is a UI, not a ranking URL. For the categories to earn organic traffic, the site needs a real path per slug (`/blog/ai-receptionist`, `/blog/answering-service`, `/blog/trades`) with its own title, excerpt, and list of posts. Until Alex adds those routes, the pills still split the index and the posts still rank as articles. Ask him for the path pages; do not wait on them to recategorize.
+**Live frontmatter must stay `news | product | guides` until Alex adds the new slugs
+to the site allowlist.** The Railway renderer 404s any other category (this bit us on
+19 August 2026: recategorizing the four SEO posts unpublished them from the index
+and the article URLs). Target mapping above is the plan. Do not put it in
+frontmatter first.
 
-Live mapping:
+A query-string filter (`/blog?category=guides`) is a UI, not a ranking URL. For
+the new categories to earn organic traffic, the site needs the slugs on the
+allowlist **and** real paths (`/blog/ai-receptionist`, `/blog/answering-service`,
+`/blog/trades`).
 
-- `introducing-nexphone` → `news`
-- `ai-receptionist-for-small-business` → `ai-receptionist`
-- `answering-service-cost`, `best-answering-service-for-small-business` → `answering-service`
-- `answering-service-for-plumbers` → `trades`
+Until that ships, every SEO guide uses `category: guides`. `introducing-nexphone`
+stays `news`.
 
 ---
 

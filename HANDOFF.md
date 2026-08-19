@@ -18,9 +18,9 @@ Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
 ## Categories (locked 19 Aug 2026, updated same day)
 
-Closed set: `news` · `ai-receptionist` · `answering-service` · `trades`.
-Do not use `guides` or `product` on new posts. Path pages (`/blog/trades` etc.) are an Alex
-site change; recategorize in this repo anyway so the pills light up when he adds the slugs.
+Live allowlist is still Alex's original: `news` | `product` | `guides`. Anything else **404s
+the post**. Target slugs (`ai-receptionist`, `answering-service`, `trades`) wait until he
+adds them. Until then every SEO guide is `guides`.
 
 ## Cadence (locked 19 Aug 2026)
 

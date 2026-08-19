@@ -1,7 +1,7 @@
 ---
 title: "What an Answering Service Actually Costs in 2026 (Per-Minute vs Per-Call vs Flat)"
 date: 2026-08-17
-category: answering-service
+category: guides
 excerpt: "Answering service cost in 2026: per-minute vs per-call vs flat, with a one-truck example and dated prices."
 author: NexPhone Team
 cover: images/answering-service-cost/cover.webp

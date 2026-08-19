@@ -1,7 +1,7 @@
 ---
 title: "Answering Service for Plumbers: What It Costs and What Happens at 11pm"
 date: 2026-08-17
-category: trades
+category: guides
 excerpt: "Answering service for plumbers: typical cost, the three kinds you can buy, and what to test on the 11pm emergency call."
 author: NexPhone Team
 cover: images/answering-service-for-plumbers/cover.webp
