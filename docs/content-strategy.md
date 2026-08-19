@@ -145,7 +145,7 @@ Six clusters. The cluster a keyword belongs to determines what it links to.
 
 | # | Cluster | Pillar page | State |
 |---|---|---|---|
-| 1 | **AI receptionist category** — the growth engine | `ai-receptionist-for-small-business` | Not written |
+| 1 | **AI receptionist category** — the growth engine | `ai-receptionist-for-small-business` | ✅ Published |
 | 2 | **Price & cost** — the money cluster | `answering-service-cost` | ✅ Published |
 | 3 | **Home-service trades** — the high-CPC cluster | `answering-service-for-plumbers` | ✅ Published |
 | 4 | **Competitor switch & alternatives** — KD 0 bottom-of-funnel | `best-answering-service-for-small-business` | ✅ Published |
@@ -170,7 +170,7 @@ trend · **Stage** = conversion treatment from §2.
 |---|---|---|---|---|---|---|---|
 | 1 | best answering service for small business | 720 | 13 | $207.71 | commercial | +49% | BOFU ✅ |
 | 2 | answering service for plumbers | 480 | 0 | $330.75 | navigational | +69% | BOFU ✅ |
-| 3 | ai receptionist for small business | 1,000 | 4 | $51.82 | commercial | **+519%** | BOFU |
+| 3 | ai receptionist for small business | 1,000 | 4 | $51.82 | commercial | **+519%** | BOFU ✅ |
 | 4 | best ai receptionist for small business | 260 | 15 | $68.40 | commercial | **+680%** | BOFU |
 | 5 | toll free number for business | 1,900 | 9 | $54.68 | informational | +46% | MOFU |
 | 6 | hire a receptionist | 1,300 | — | $19.10 | transactional | −19% | MOFU |
@@ -266,6 +266,7 @@ Check this list before adding an internal link. If it is not here, do not link t
 | `/blog/answering-service-for-plumbers` | answering service for plumbers | Live |
 | `/blog/answering-service-cost` | answering service cost | Live |
 | `/blog/best-answering-service-for-small-business` | best answering service for small business | Live |
+| `/blog/ai-receptionist-for-small-business` | ai receptionist for small business | Live |
 
 Also live and safe to link: `nexphone.ai/pricing`, the `/features/` pages, `nexphone.ai`.
 

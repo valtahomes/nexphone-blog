@@ -12,6 +12,7 @@ Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branc
 - `/blog/answering-service-for-plumbers`
 - `/blog/answering-service-cost`
 - `/blog/best-answering-service-for-small-business` (cluster 4 pillar)
+- `/blog/ai-receptionist-for-small-business` (cluster 1 pillar)
 
 Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
@@ -23,10 +24,9 @@ Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
 ## Next URLs (conversion order)
 
-1. `ai-receptionist-for-small-business` (cluster 1 pillar, +519%)
-2. `hvac-answering-service`
-3. `ai-receptionist-pricing`
-4. `missed-call-text-back`
+1. `hvac-answering-service`
+2. `ai-receptionist-pricing`
+3. `missed-call-text-back`
 
 ## Writer / VPS
 

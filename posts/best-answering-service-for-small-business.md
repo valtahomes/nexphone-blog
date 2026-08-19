@@ -300,8 +300,11 @@ with a stated envelope. The expensive end is live per-call on a starter plan
 you outgrew in week two.
 
 For rounding, hang-ups and the 13th invoice, see
-[what an answering service costs](/blog/answering-service-cost). Price *your*
-last month on at least one live plan and one AI plan before you pick a brand.
+[what an answering service costs](/blog/answering-service-cost). The AI-shaped
+version of this decision is
+[AI receptionist for small business](/blog/ai-receptionist-for-small-business).
+Price *your* last month on at least one live plan and one AI plan before you
+pick a brand.
 
 ## What to ask before you sign
 
