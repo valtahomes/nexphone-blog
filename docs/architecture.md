@@ -68,6 +68,6 @@ Railway service (`railway variables -s nexphone --kv | grep R2_`).
 
 - One post = one file; the filename is the URL slug, permanent once published (renames break links).
 - `draft: true` hides from index/RSS but keeps the direct URL fetchable for preview.
-- Categories are a closed set (`news` / `ai-receptionist` / `answering-service` / `trades`) — the
-  index pills and the URL filter depend on them. Adding a slug is a small site change (Alex).
-  `guides` and `product` are retired. See `docs/content-strategy.md` §3.
+- Categories are a closed set (`news` / `product` / `guides`) — the index pills and the URL filter
+  depend on them; adding a category is a small site change, on purpose. Topic clusters live in
+  internal links, not in this field. See `docs/content-strategy.md` §3.

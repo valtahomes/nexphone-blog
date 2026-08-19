@@ -14,7 +14,8 @@ At the end of any substantive session — and when asked to update everything �
 - NexPhone never appears inside a neutral vendor ranking. BOFU sells after it, under **Where NexPhone fits**.
 - No GFM tables in post bodies. No 62% missed-call statistic. Never cite getnextphone.com. Never write "Valta Voice".
 - Filename is the permanent URL. `draft: true` hides from index/RSS; delete that line to publish.
-- Category is `news` | `ai-receptionist` | `answering-service` | `trades`. Never `guides` or `product`.
+- Category is `news` | `product` | `guides`. SEO posts are `guides`. Do not invent slugs — the site 404s them.
+- Clusters (AI receptionist, cost, trades, etc.) live in internal links, not in frontmatter.
 - Every draft runs a deslop pass against `docs/anti-slop.md` before publish. The VPS writer does this as a second Grok call.
 - Launch cadence through 30 Sep 2026: 4 BOFU/MOFU guides/week, Mon–Thu; Friday = links only.
 

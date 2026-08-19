@@ -16,11 +16,11 @@ Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branc
 
 Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
-## Categories (locked 19 Aug 2026, updated same day)
+## Categories (locked 19 Aug 2026)
 
-Live allowlist is still Alex's original: `news` | `product` | `guides`. Anything else **404s
-the post**. Target slugs (`ai-receptionist`, `answering-service`, `trades`) wait until he
-adds them. Until then every SEO guide is `guides`.
+Closed set: `news` | `product` | `guides`. SEO posts are `guides`. Anything else **404s
+the post**. Topic clusters live in internal links, not in frontmatter. Extra-category
+experiment abandoned same day.
 
 ## Cadence (locked 19 Aug 2026)
 

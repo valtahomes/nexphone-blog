@@ -156,33 +156,15 @@ Cluster 1 pillar is live. Cluster 6 is in −70% decline — build one page, not
 
 ### Categories (the public taxonomy)
 
-Clusters decide internal links. **Categories decide what Google and the blog index treat as a pillar.** Alex's original closed set was `news | product | guides`. That put every money URL in `guides`, so the site had one SEO bucket. Do not do that.
+Clusters decide **internal links**. Frontmatter `category` is Alex's closed set:
 
-Use these slugs in frontmatter. Do not invent others.
+| Slug | Use for |
+|---|---|
+| `news` | Launch / company notes (`introducing-nexphone`) |
+| `product` | Features and release notes |
+| `guides` | Every SEO article |
 
-| Slug | Label on the index | Cluster | When it exists |
-|---|---|---|---|
-| `news` | News | — | Launch / product notes only. Not a ranking play. |
-| `ai-receptionist` | AI receptionist | 1 | Now. Growth engine. |
-| `answering-service` | Answering service | 2 + 4 | Now. Cost, best-of, live-service comparisons. |
-| `trades` | Trades | 3 | Now. Plumbers, HVAC, electrician, contractors. |
-| `phone-setup` | Phone setup | 5 | **Add when** `missed-call-text-back` publishes. Not before. |
-
-**Do not use `guides` or `product` on new posts.** `product` stays empty on purpose — release notes do not get a blog pillar (they rank for nothing). `guides` was the catch-all; it is retired. Cluster 6 (property management) does not get a category — one page, file it under `answering-service` if it is ever written.
-
-**Live frontmatter must stay `news | product | guides` until Alex adds the new slugs
-to the site allowlist.** The Railway renderer 404s any other category (this bit us on
-19 August 2026: recategorizing the four SEO posts unpublished them from the index
-and the article URLs). Target mapping above is the plan. Do not put it in
-frontmatter first.
-
-A query-string filter (`/blog?category=guides`) is a UI, not a ranking URL. For
-the new categories to earn organic traffic, the site needs the slugs on the
-allowlist **and** real paths (`/blog/ai-receptionist`, `/blog/answering-service`,
-`/blog/trades`).
-
-Until that ships, every SEO guide uses `category: guides`. `introducing-nexphone`
-stays `news`.
+Do not invent slugs. The site 404s anything else (19 August 2026: four SEO posts dropped off the index after a recategorize). The extra-category experiment (`ai-receptionist` / `answering-service` / `trades`) is abandoned. Cluster structure stays in this table and in the links between posts, not in the URL filter.
 
 ---
 
@@ -349,7 +331,7 @@ Another :: What it means
 ---
 title: "The article title"
 date: 2026-08-19          # today, YYYY-MM-DD
-category: answering-service   # news | ai-receptionist | answering-service | trades — see §3
+category: guides              # news | product | guides — see §3
 excerpt: One sentence for the Google result. MUST be under 155 characters.
 author: NexPhone Team
 draft: true               # always — Alex publishes
