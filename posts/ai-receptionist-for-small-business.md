@@ -4,6 +4,7 @@ date: 2026-08-19
 category: guides
 excerpt: "AI receptionist for small business: what it does, 2026 prices from vendor pages, and the jobs it still cannot do."
 author: NexPhone Team
+cover: images/ai-receptionist-for-small-business/cover.webp
 faq:
   - q: What does an AI receptionist for a small business do?
     a: "It answers your business line 24/7, talks using information you gave it, takes the job details, and sends you the lead with a recording, a transcript and a short summary. It qualifies the call. It does not dispatch, bookkeep, or sit at a desk."
