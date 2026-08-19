@@ -29,7 +29,7 @@ docs/architecture.md  how the whole system works and how it scales up
 ---
 title: Toll-free vs. local numbers for business texting   # required
 date: 2026-07-31                                          # required, YYYY-MM-DD — sorts the index
-category: guides                                          # required: news | product | guides
+category: answering-service                               # required: news | ai-receptionist | answering-service | trades
 excerpt: One sentence shown on the card and in search results.   # required
 author: NexPhone Team                                     # optional, defaults to "NexPhone Team"
 cover: images/<slug>/cover.png                            # optional — card + og:image; relative or full URL
@@ -40,8 +40,9 @@ faq:                                                      # optional — renders
 ---
 ```
 
-Categories mean: **news** = company/product announcements · **product** = features & release notes ·
-**guides** = how-tos, education, help content.
+Categories mean: **news** = company notes · **ai-receptionist** = cluster 1 · **answering-service** =
+cost / best-of / live comparisons · **trades** = plumbing, HVAC, electrician. Do not use `guides` or
+`product` on new posts. Full rules in `docs/content-strategy.md` §3.
 
 ## Media rules
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Receptionist for Small Business: What It Actually Does (and What It Doesn't)"
 date: 2026-08-19
-category: guides
+category: ai-receptionist
 excerpt: "What an AI receptionist for small business actually does, typical 2026 pricing, and what it still cannot do."
 author: NexPhone Team
 faq:

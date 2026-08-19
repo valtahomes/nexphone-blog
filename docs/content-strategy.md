@@ -152,8 +152,32 @@ Six clusters. The cluster a keyword belongs to determines what it links to.
 | 5 | **Missed calls, texting & phone-line mechanics** | `missed-call-text-back` | Not written |
 | 6 | **Property management & multi-unit** — adjacent pool | `answering-service-for-property-management` | Not written |
 
-Cluster 1 is now the most important and has no pillar. That is the single biggest gap in the plan.
-Cluster 6 is in −70% decline — build one page, not a cluster.
+Cluster 1 pillar is live. Cluster 6 is in −70% decline — build one page, not a cluster.
+
+### Categories (the public taxonomy)
+
+Clusters decide internal links. **Categories decide what Google and the blog index treat as a pillar.** Alex's original closed set was `news | product | guides`. That put every money URL in `guides`, so the site had one SEO bucket. Do not do that.
+
+Use these slugs in frontmatter. Do not invent others.
+
+| Slug | Label on the index | Cluster | When it exists |
+|---|---|---|---|
+| `news` | News | — | Launch / product notes only. Not a ranking play. |
+| `ai-receptionist` | AI receptionist | 1 | Now. Growth engine. |
+| `answering-service` | Answering service | 2 + 4 | Now. Cost, best-of, live-service comparisons. |
+| `trades` | Trades | 3 | Now. Plumbers, HVAC, electrician, contractors. |
+| `phone-setup` | Phone setup | 5 | **Add when** `missed-call-text-back` publishes. Not before. |
+
+**Do not use `guides` or `product` on new posts.** `product` stays empty on purpose — release notes do not get a blog pillar (they rank for nothing). `guides` was the catch-all; it is retired. Cluster 6 (property management) does not get a category — one page, file it under `answering-service` if it is ever written.
+
+A query-string filter (`/blog?category=trades`) is a UI, not a ranking URL. For the categories to earn organic traffic, the site needs a real path per slug (`/blog/ai-receptionist`, `/blog/answering-service`, `/blog/trades`) with its own title, excerpt, and list of posts. Until Alex adds those routes, the pills still split the index and the posts still rank as articles. Ask him for the path pages; do not wait on them to recategorize.
+
+Live mapping:
+
+- `introducing-nexphone` → `news`
+- `ai-receptionist-for-small-business` → `ai-receptionist`
+- `answering-service-cost`, `best-answering-service-for-small-business` → `answering-service`
+- `answering-service-for-plumbers` → `trades`
 
 ---
 
@@ -317,7 +341,7 @@ Another :: What it means
 ---
 title: "The article title"
 date: 2026-08-19          # today, YYYY-MM-DD
-category: guides          # news | product | guides — nothing else
+category: answering-service   # news | ai-receptionist | answering-service | trades — see §3
 excerpt: One sentence for the Google result. MUST be under 155 characters.
 author: NexPhone Team
 draft: true               # always — Alex publishes

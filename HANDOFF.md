@@ -16,6 +16,12 @@ Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branc
 
 Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
+## Categories (locked 19 Aug 2026, updated same day)
+
+Closed set: `news` · `ai-receptionist` · `answering-service` · `trades`.
+Do not use `guides` or `product` on new posts. Path pages (`/blog/trades` etc.) are an Alex
+site change; recategorize in this repo anyway so the pills light up when he adds the slugs.
+
 ## Cadence (locked 19 Aug 2026)
 
 - Through **30 Sep 2026:** 4 unique BOFU/MOFU guides per week. Mon–Thu new URL. Friday = internal links, no fifth URL.
