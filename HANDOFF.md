@@ -15,6 +15,8 @@ Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branc
 - `/blog/ai-receptionist-for-small-business` (cluster 1 pillar)
 - `/blog/hvac-answering-service` (25 Aug, `68c26cb`)
 - `/blog/ai-receptionist-pricing` (25 Aug, `8bda306`)
+- `/blog/missed-call-text-back` (25 Aug, `5fd9e69`)
+- `/blog/virtual-receptionist-pricing` (25 Aug, `23ee4f9`)
 
 Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
@@ -32,9 +34,9 @@ experiment abandoned same day.
 
 ## Next URLs (conversion order)
 
-1. `missed-call-text-back` — **Wed 26 Aug 2026, 10:30 America/New_York**. This week is 2/4 (HVAC + pricing shipped 25 Aug after Pexels 403 killed Mon/Tue).
-2. `virtual-receptionist-pricing`
-3. `ai-answering-service-for-small-business`
+1. `ai-answering-service-for-small-business` — **Mon 31 Aug 2026, 10:30 America/New_York**. This week is 4/4 (HVAC, pricing, missed-call text-back, virtual receptionist pricing — all 25 Aug after Mon/Tue 403). Wed/Thu 26–27 timers no-op on the cap.
+2. `electrician-answering-service`
+3. `after-hours-answering-service`
 
 ## Writer / VPS
 
