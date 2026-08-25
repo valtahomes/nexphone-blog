@@ -346,6 +346,8 @@ A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answ
 
 A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
 
+A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
+
 ## Where NexPhone fits
 
 This section is us, so read it with that in mind.
