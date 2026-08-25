@@ -40,7 +40,7 @@ experiment abandoned same day.
 
 ## Writer / VPS
 
-- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. Do not publish a guide without `cover: images/<slug>/cover.webp` (or `.jpg`). Pexels HTML search is Cloudflare-blocked from the VPS — `COVER_IDS` in `run.py` hits `images.pexels.com` directly.
+- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. One photo, one URL — never reuse a shot or another frame from the same shoot (25 Aug: pricing + virtual receptionist both got the Kampus gourmet-shop owner). Do not publish a guide without `cover: images/<slug>/cover.webp` (or `.jpg`). `COVER_IDS` in `run.py` hits `images.pexels.com` directly (search HTML is Cloudflare-blocked).
 - Orchestrator: `trader@82.180.133.216:~/nexphone-blog-agent/` (own `.env` chmod 600, own clone, own systemd timer). SSH key `~/.ssh/hostinger_trading`.
 - Secrets live only on the VPS `.env` (xAI key + GitHub deploy key). Paths, never values, in this file.
 - Keyword snapshot stays at `~/nexphone-seo/` on the same box. Do not mix with trading dirs.
