@@ -13,6 +13,8 @@ Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branc
 - `/blog/answering-service-cost`
 - `/blog/best-answering-service-for-small-business` (cluster 4 pillar)
 - `/blog/ai-receptionist-for-small-business` (cluster 1 pillar)
+- `/blog/hvac-answering-service` (25 Aug, `68c26cb`)
+- `/blog/ai-receptionist-pricing` (25 Aug, `8bda306`)
 
 Plus `nexphone.ai/pricing`, `/features/*`, `nexphone.ai`.
 
@@ -30,13 +32,13 @@ experiment abandoned same day.
 
 ## Next URLs (conversion order)
 
-1. `hvac-answering-service` — **Mon 24 Aug 2026, 10:30 America/New_York**. This week is already 4/4 (plumbers, cost, comparison, AI receptionist), so the Thu 20 Aug timer fires and no-ops.
-2. `ai-receptionist-pricing`
-3. `missed-call-text-back`
+1. `missed-call-text-back` — **Wed 26 Aug 2026, 10:30 America/New_York**. This week is 2/4 (HVAC + pricing shipped 25 Aug after Pexels 403 killed Mon/Tue).
+2. `virtual-receptionist-pricing`
+3. `ai-answering-service-for-small-business`
 
 ## Writer / VPS
 
-- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. Do not publish a guide without `cover: images/<slug>/cover.webp`.
+- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. Do not publish a guide without `cover: images/<slug>/cover.webp` (or `.jpg`). Pexels HTML search is Cloudflare-blocked from the VPS — `COVER_IDS` in `run.py` hits `images.pexels.com` directly.
 - Orchestrator: `trader@82.180.133.216:~/nexphone-blog-agent/` (own `.env` chmod 600, own clone, own systemd timer). SSH key `~/.ssh/hostinger_trading`.
 - Secrets live only on the VPS `.env` (xAI key + GitHub deploy key). Paths, never values, in this file.
 - Keyword snapshot stays at `~/nexphone-seo/` on the same box. Do not mix with trading dirs.
