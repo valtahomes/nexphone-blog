@@ -195,3 +195,5 @@ Calls and voicemail work the day you start. Outbound business texting waits on c
 A year of the $20 plan is less than one after-hours ticket on Angi's ranges. It will not book the job into your calendar. If you need that, buy a live service. If you need the phone answered at 11pm and the lead on your phone when you put the tools down, [start here](https://nexphone.ai).
 
 A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
+
+A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).

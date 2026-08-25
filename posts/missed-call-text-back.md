@@ -185,3 +185,5 @@ A live service is the other fork, if you need a person to book a calendar or tak
 For everyone else, the order is simple. Answer when you can. Text in seconds when you cannot. Call back the ones who cannot receive a text. Write the template on a calm day, not from the roof.
 
 Set the template, register the number, and test it from a second phone before the next Saturday roof.
+
+A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
