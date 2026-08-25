@@ -184,6 +184,8 @@ Two more are worth adding if your shop cares about them: the age of the system, 
 
 An answering service that collects a name and a number has handed you a message. One that collects those four answers has handed you a qualified job you can price before you get in the van.
 
+A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.

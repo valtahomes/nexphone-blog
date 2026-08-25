@@ -288,6 +288,8 @@ platform with an AI layer (Nextiva and its peers), not a small-business receptio
 
 A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
 
+A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
+
 ## Where NexPhone fits
 
 :::callout

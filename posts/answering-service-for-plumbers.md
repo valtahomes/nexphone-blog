@@ -231,6 +231,8 @@ on the 11pm call, and what a month of that coverage actually costs against one e
 
 A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
 
+A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
