@@ -4,7 +4,7 @@ date: 2026-08-25
 category: guides
 excerpt: "Virtual receptionist pricing in 2026: per-minute, per-call, and flat plans, with published numbers and a way to price your own month."
 author: NexPhone Team
-cover: images/virtual-receptionist-pricing/cover.jpg
+cover: images/virtual-receptionist-pricing/cover-desk.jpg
 faq:
   - q: How much does a virtual receptionist cost per month in 2026?
     a: "Live virtual receptionist plans published in August 2026 run from about $250 a month (Ruby, 50 minutes) to $2,100 a month (Smith.ai, 300 calls). Per-call live plans often land near $7–$11.50 a call once overage kicks in. AI receptionist plans are a different shape — a monthly base plus a lower per-call rate, or a flat phone plan with a pool of AI minutes. Price a busy month of your actual calls, including the junk, before you compare headlines."
