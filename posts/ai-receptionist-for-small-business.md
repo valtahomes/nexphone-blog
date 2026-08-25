@@ -286,6 +286,8 @@ delivery, and will not be a second pair of hands.
 **Your volume is a contact centre's volume.** Hundreds of calls a day across a team is a phone
 platform with an AI layer (Nextiva and its peers), not a small-business receptionist.
 
+A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
+
 ## Where NexPhone fits
 
 :::callout

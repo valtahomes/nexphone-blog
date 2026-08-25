@@ -342,6 +342,8 @@ going to invent a burden rate.
 Hire the person if you need a body at a desk. Do not hire them to be a 24/7
 phone tree. That is the job the seven vendors above are for.
 
+A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
+
 ## Where NexPhone fits
 
 This section is us, so read it with that in mind.

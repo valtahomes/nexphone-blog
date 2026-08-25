@@ -229,6 +229,8 @@ If you want the industry-wide breakdown of per-minute vs per-call vs flat, that 
 prices them on one month of calls. The test for a plumbing company is still the same: what happens
 on the 11pm call, and what a month of that coverage actually costs against one emergency job.
 
+A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.

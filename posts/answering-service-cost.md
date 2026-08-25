@@ -168,6 +168,8 @@ Model a busy month :: Use your worst recent month, not the average. The bill ris
 
 If the live quote is more than one emergency job, and the AI quote is less than one, the decision is not about the brand on the quote. It is about whether you will book the job yourself after the call.
 
+A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
+
 ## Where NexPhone fits
 
 Everything above is the market. This section is us, so read it with that in mind.
