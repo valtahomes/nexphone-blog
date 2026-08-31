@@ -176,6 +176,8 @@ A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-cal
 
 A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
 
+A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
+
 ## Where NexPhone fits
 
 Everything above is the market. This section is us, so read it with that in mind.

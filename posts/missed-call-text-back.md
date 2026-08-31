@@ -187,3 +187,5 @@ For everyone else, the order is simple. Answer when you can. Text in seconds whe
 Set the template, register the number, and test it from a second phone before the next Saturday roof.
 
 A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
+
+A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
