@@ -202,3 +202,5 @@ Most owners are taking calls the same day they sign up. A year of the $20 plan i
 NexPhone answers the business line 24/7 from about $20 a month. It will not book the job into your calendar — if that is the product, pay a live virtual receptionist for it. If the product is the phone getting answered at 9pm while your hands are full, [start here](https://nexphone.ai).
 
 A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
+
+A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).

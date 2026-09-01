@@ -157,6 +157,8 @@ involves emailing someone a revised script, assume it will be stale.
 5. **"What record do I get, and how fast?"** A message you have to re-key is a message that gets lost. You want the log to be usable evidence.
 6. **"What happens when forty tenants call in the same hour?"** Storms and outages do not arrive politely spaced. Ask what the queue does.
 
+A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.

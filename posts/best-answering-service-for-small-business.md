@@ -352,6 +352,8 @@ A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/vir
 
 A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
 
+A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
+
 ## Where NexPhone fits
 
 This section is us, so read it with that in mind.
