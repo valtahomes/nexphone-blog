@@ -159,6 +159,8 @@ involves emailing someone a revised script, assume it will be stale.
 
 A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
 
+A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.

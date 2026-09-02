@@ -193,3 +193,5 @@ Before you sign up: business texting needs a one-time carrier registration that 
 :::
 
 A year of coverage is usually cheaper than one after-hours panel job. NexPhone answers the business line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It will not book the job into your calendar. If you need that, buy a live service. If you need the phone answered at 10pm, [start here](https://nexphone.ai).
+
+A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
