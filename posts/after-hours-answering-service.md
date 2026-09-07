@@ -191,6 +191,8 @@ Then test it. Do not skip this.
 
 Call your own line after 9pm from a number that is not in your contacts. Play an emergency. Play a “can you come Tuesday.” Play something the script does not cover: a complaint, a weird access issue, a landlord who has to approve the spend. Time the gap between hang-up and your phone buzzing. If that gap is measured in hours, keep shopping.
 
+A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
