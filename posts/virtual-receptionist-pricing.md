@@ -208,3 +208,5 @@ A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/el
 A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
 
 A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
+
+A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).

@@ -178,3 +178,5 @@ Test before vinyl. Call it from the parking lot. Call it after 6pm. Have someone
 A toll-free number for business is a good tool for a business that is actually toll-free-shaped: more than one area code, ads that travel, a number you want to keep when you move. For a one-city trade, a local number does the sales work the 800 used to get credit for.
 
 If you want a local or toll-free US line that answers when you cannot, [start here](https://nexphone.ai).
+
+A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).

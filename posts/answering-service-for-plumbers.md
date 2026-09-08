@@ -245,6 +245,8 @@ A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/af
 
 A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
 
+A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
