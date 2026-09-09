@@ -188,6 +188,8 @@ Optional fifth, if insurance work is part of your book: is this a claim, and is 
 
 Train the script on your actual jobs for a week. Then call your own line at 7pm from a number that is not in your contacts and try to sound like a tired homeowner. That test is worth more than a demo.
 
+A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
