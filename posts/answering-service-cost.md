@@ -188,6 +188,8 @@ A vendor-by-vendor walkthrough lives in [answering service for contractors](/blo
 
 A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
 
+A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+
 ## Where NexPhone fits
 
 Everything above is the market. This section is us, so read it with that in mind.

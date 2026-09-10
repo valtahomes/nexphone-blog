@@ -190,6 +190,8 @@ Train the script on your actual jobs for a week. Then call your own line at 7pm 
 
 A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
 
+A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+
 ## Where NexPhone fits
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.

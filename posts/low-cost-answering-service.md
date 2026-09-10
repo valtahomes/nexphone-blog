@@ -175,6 +175,8 @@ If the vendor will not let you test after hours before you sign, you already hav
 
 The four things worth collecting on that test call are the same ones a plumber needs, and they are not a name and a number. Is this urgent. What is the address. Can they describe the job. Is anyone else supposed to approve the spend. An answering service that cannot get those four out of a caller has sold you a voicemail with extra steps. The trade-specific version of that test is in [answering service for plumbers](/blog/answering-service-for-plumbers).
 
+A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+
 ## Where NexPhone fits
 
 Everything above is about the market. This section is about our product.
