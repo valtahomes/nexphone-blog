@@ -27,26 +27,28 @@ experiment abandoned same day.
 
 ## Next URLs (conversion order)
 
-The first 13 URLs in `QUEUE` were all live by Thu 10 Sep. Mon 14 and Tue 15 Sep published nothing ("queue empty"), and the alert still said "Grok published". Refilled 15 Sep from the §4 leftovers that passed a live DataForSEO SERP check (blog-format results, no overlap with a live page):
+The first 13 URLs in `QUEUE` were all live by Thu 10 Sep. Mon 14 and Tue 15 Sep published nothing ("queue empty"), and the alert still said "Grok published". On 15 Sep the queue was refilled to **16 URLs**. Each one passed a live DataForSEO SERP check (blog-format results, no overlap with a live or queued page), ordered by the §4 formula:
 
-1. `quo-alternatives` (Wed 16 Sep, 10:30 America/New_York)
-2. `dialpad-alternative`
-3. `business-phone-number-for-llc` (MOFU)
-4. `google-voice-alternative` (MOFU)
-5. `rosie-ai-receptionist`
-6. `grasshopper-alternative` (Thu 24 Sep)
+1. `google-voice-for-business` (+ "google voice pricing", ~11,000/mo): Wed 16 Sep
+2. `how-to-get-a-business-phone-number` (+ "free business phone number" + LLC, ~7,700/mo; replaced the queued `business-phone-number-for-llc`, same SERP): Thu 17 Sep
+3. `ringcentral-pricing` · 4. `10dlc-registration` · 5. `quo-alternatives` · 6. `nextiva-alternative` (to Thu 24 Sep)
+7. `quo-pricing` · 8. `smith-ai-pricing` · 9. `dialpad-alternative` (28–30 Sep)
+10. `nextiva-pricing` · 11. `google-voice-alternative` · 12. `rosie-ai-receptionist` (5–7 Oct)
+13. `grasshopper-vs-google-voice` · 14. `ringcentral-alternative` · 15. `grasshopper-alternative` (12–14 Oct)
+16. `voicemail-greeting-for-business` (Mon 19 Oct)
 
-**The queue empties again after Thu 24 Sep.** Mon 28 Sep will text "NOTHING published". Anything past §4 needs fresh DataForSEO research first (§9).
+**Runway ends about 19 Oct.** The agent texts at 6 left (~5 Oct) and 3 left (~12 Oct). Refill before then: DataForSEO data, SERP gate, `ASSIGNMENT` + `CLUSTER` + two eyeballed Pexels IDs per slug. Once Search Console is connected, expanding page-2 posts (§8a) beats adding siblings.
 
 Cut on 15 Sep, so do not re-queue without new data:
 - `best ai receptionist for small business`: same SERP as the live `ai-receptionist-for-small-business` pillar, and KD is now 34. Expand the pillar instead.
 - `hire a receptionist`: the SERP is all job boards.
-- `answering service for dental office`, `pest control answering service`, `insurance answering service`: mostly vendor service pages (dental would also invite HIPAA claims).
+- `answering service for dental office`, `pest control answering service`, `insurance answering service`, `real estate answering service`, `law firm answering service`, `medical answering service`: mostly vendor service pages (medical and dental also invite HIPAA claims).
 - `smith.ai reviews`: review platforms and job seekers.
-- `answerconnect pricing`: AnswerConnect hides prices behind a quote form, so Grok would have to guess.
+- `answerconnect pricing`: prices are behind a quote form, so Grok would have to guess.
+- `ai appointment scheduling`: the SERP is meeting-calendar apps (Calendly, Motion), a different product.
+- `appointment reminder texts`: reminder software, and reminders are not a confirmed NexPhone feature.
+- `business text messaging`, `business texting app`, `vanity phone number`: KD over 30.
 - `answering service for hvac company` (31 Aug): would cannibalise `hvac-answering-service`.
-
-`after-hours-answering-service` stays live (Howard, 15 Sep: "if it serves SEO, keep it"), even though the 31 Aug gate had flagged that SERP as mostly vendor service pages.
 
 ## Writer / VPS
 
