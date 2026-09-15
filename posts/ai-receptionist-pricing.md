@@ -180,19 +180,19 @@ Do that on paper for a *busy* month. Average months make per-call and per-minute
 3. **"Do you bill hang-ups, robocalls, and wrong numbers?"** Get this in writing on per-call and per-minute plans.
 4. **"Who answers at 11pm, and is it the same thing that answers at 10am?"** For live services this is a staffing question. For AI it is a model-and-escalation question. Same test.
 5. **"What does it do when it does not know the answer?"** The only acceptable answer is that it stops and hands off to a person. An AI that fills silence with a guess costs more than voicemail.
-6. **"Which of these do I actually get: a booked calendar slot, a card taken, a Jobber or ServiceTitan entry, a texted lead with a transcript?"** Three of those four require a live service or a specialist tool. Do not pay AI prices expecting a live-service job, or live-service prices for a texted lead.
+6. **"Which of these do I actually get: a booked calendar slot, a card taken, a Jobber or ServiceTitan entry, a texted lead with a transcript?"** The card and the Jobber or ServiceTitan entry usually require a live service or a specialist tool, and the calendar slot depends on the product. Do not pay AI prices expecting a live-service job, or live-service prices for a texted lead.
 
 Question 6 is where people buy the wrong category. An AI that answers, qualifies, and passes you the job is a different purchase from a receptionist who books Thursday at 2pm while the caller is still talking.
 
 :::callout
 **Where NexPhone fits**
 NexPhone is a flat-rate AI receptionist on a real US business line. [Pro is $20 a month](https://nexphone.ai/pricing), Team is $40, Business is $80, on the public pricing page as of 25 August 2026. Every plan includes a local or toll-free number and a block of AI-receptionist minutes — 30, 60, or 100. If you want the AI on more of the calls, an AI add-on starts at $25 a month for another 130 minutes, up to $199 for 1,500. Extra seats are $7. Extra numbers are $5 plus a $2 setup fee. Yearly billing takes 10 percent off the plan base.
-It answers on the first ring, at any hour, from the information you uploaded about the business. It texts you the lead with a recording, a transcript, and a summary. It does not book a calendar, take a card, or type into Jobber, Housecall Pro, or ServiceTitan. If those three things are the job, pay a live service. Ruby and Smith.ai sell that job. Buy it from them.
+It answers on the first ring, at any hour, from the information you uploaded about the business. It texts you the lead with a recording, a transcript, and a summary. It can put the job on your calendar automatically. It does not take a card or type into Jobber, Housecall Pro, or ServiceTitan. If either of those is the job, pay a live service. Ruby and Smith.ai sell that job. Buy it from them.
 Stay on a per-call AI plan if your volume is tiny and you want a human backup in the same vendor — Smith.ai's AI tier is built for that handoff. Stay on a live minute plan if callers need a person from the first word, every time.
 Calls and voicemail work the day you start. Outbound business texting waits on carrier registration, about $19 once and about $2 a month, and takes a few business days. When the included AI minutes run out, the next call goes to voicemail or your team until you raise the AI plan. That limit is on purpose. There is no fake unlimited.
 :::
 
-A year of the $20 plan is less than one after-hours ticket on Angi's ranges. It will not book the job into your calendar. If you need that, buy a live service. If you need the phone answered at 11pm and the lead on your phone when you put the tools down, [start here](https://nexphone.ai).
+A year of the $20 plan is less than one after-hours ticket on Angi's ranges. It can put the job on your calendar for you. If you need the phone answered at 11pm and the lead on your phone when you put the tools down, [start here](https://nexphone.ai).
 
 A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
 

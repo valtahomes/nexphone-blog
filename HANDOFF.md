@@ -46,7 +46,7 @@ Cut on 15 Sep, so do not re-queue without new data:
 - `answerconnect pricing`: AnswerConnect hides prices behind a quote form, so Grok would have to guess.
 - `answering service for hvac company` (31 Aug): would cannibalise `hvac-answering-service`.
 
-Open decision: `after-hours-answering-service` went live about 2 Sep even though the 31 Aug gate said that SERP wants a service page, not a post (8 of 9 results are vendor pages). Keep it, or add `draft: true`.
+`after-hours-answering-service` stays live (Howard, 15 Sep: "if it serves SEO, keep it"), even though the 31 Aug gate had flagged that SERP as mostly vendor service pages.
 
 ## Writer / VPS
 
@@ -61,10 +61,11 @@ Open decision: `after-hours-answering-service` went live about 2 Sep even though
 
 ## Pricing truth (check live page; do not restating a stale grid)
 
-nexphone.ai/pricing as of 19 Aug 2026: Pro $20 / Team $40 / Business $80. AI add-on $25/130 min to $199/1,500. Strategy body still says "~$45 team" in §1 — prefer linking `/pricing`. Re-checked 15 Sep: unchanged. Three live posts still say "**$45** for a team" in Where NexPhone fits (`answering-service-cost`, `answering-service-for-plumbers`, `answering-service-for-property-management`), which should read $40.
+nexphone.ai/pricing as of 19 Aug 2026: Pro $20 / Team $40 / Business $80. AI add-on $25/130 min to $199/1,500. Strategy body still says "~$45 team" in §1 — prefer linking `/pricing`. Re-checked 15 Sep: unchanged. **The pricing page is the source of truth (Howard, 15 Sep).** The three posts that said "$45 for a team" were corrected to $40 that day.
 
 ## Do not re-litigate
 
 - SEO guides are not product pages: keep the comparison neutral, then sell in **Where NexPhone fits**.
+- **NexPhone puts the job on the owner's calendar automatically** (Howard, 15 Sep 2026). Every post that said it can't book was corrected that day. Still true: no payments/deposits, no Jobber/Housecall Pro/ServiceTitan.
 - No GFM tables, no 62% stat, no getnextphone.com, no "Valta Voice", no HIPAA claims.
 - One keyword, one URL.

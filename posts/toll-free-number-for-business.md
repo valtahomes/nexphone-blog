@@ -165,7 +165,7 @@ Porting an existing toll-free in is possible. It is also slower than issuing a n
 
 Keep the cell off every public surface. The business number is the one that gets missed, recorded, and handed to whoever is on call. The cell is yours.
 
-NexPhone will issue a real US number, local or toll-free, and put it on the phone in your pocket. A voice AI can answer that line when both hands are busy, take the job details, and text you the lead. Calls and voicemail work from day one. Outbound texting waits on the carrier registration. A few business days, not a toggle. It will not book the job into a calendar. If you need the number itself, and you need it answered, that is the job it is for.
+NexPhone will issue a real US number, local or toll-free, and put it on the phone in your pocket. A voice AI can answer that line when both hands are busy, take the job details, and text you the lead. Calls and voicemail work from day one. Outbound texting waits on the carrier registration. A few business days, not a toggle. It can put the job on your calendar, too. If you need the number itself, and you need it answered, that is the job it is for.
 
 ## What to put on the van
 

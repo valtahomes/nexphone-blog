@@ -84,7 +84,7 @@ A voice AI answers your line, holds a conversation, answers from information you
 **Good at:** picking up on the first ring, at 3am, on the Saturday the heat index hits 110, for a flat monthly cost that does not punish a busy month. It does not have an off night and it does not quit in week two of a heat wave.
 **Bad at:** judgement, if it is built badly. An AI that always produces an answer is worse than no AI. A caller with a complaint, a warranty dispute, or a carbon monoxide alarm needs a person, and a confident wrong answer costs more than a message would have.
 
-Most AI answering products do **not** book a calendar, take a card, or type into ServiceTitan, Housecall Pro or Jobber while the caller is still on the line. If those three things are the job, you are buying a live service. If the job is "answer the 4pm Saturday call, qualify it, and get it to me," AI is usually the cheaper tool. The category write-up lives in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
+Most AI answering products do **not** take a card or type into ServiceTitan, Housecall Pro or Jobber while the caller is still on the line, and many do not book a calendar either. If a card or your field-service software is the job, you are buying a live service. If it is the calendar, watch the booking happen on a live call before you pay. If the job is "answer the 4pm Saturday call, qualify it, and get it to me," AI is usually the cheaper tool. The category write-up lives in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
 
 :::callout
 The single best question to ask any AI answering service:
@@ -213,8 +213,8 @@ NexPhone is the third kind on that list: an AI receptionist on a real US busines
 Against the four questions above: it will ask what you tell it to ask. Air moving, indoor temp, address, burning smell: that is a script, and scripts are the part AI is good at. It does not have an off night, and it does not decide your 9pm no-cool is somebody else's problem because the queue got long.
 
 :::callout
-**Stay with a live call centre if you need any of these.**
-The job booked straight into a calendar. A deposit taken over the phone. Details typed into ServiceTitan, Housecall Pro or Jobber while the homeowner is still talking. NexPhone does not do those three things, and no amount of wanting it to will change that this quarter. If dispatch-and-book is the product you are shopping for, pay a live service for it.
+**Stay with a live call centre if you need either of these.**
+A deposit taken over the phone. Details typed into ServiceTitan, Housecall Pro or Jobber while the homeowner is still talking. NexPhone does not do those two things. It does put the job on your calendar automatically. If payment or field-service software is the product you are shopping for, pay a live service for it.
 :::
 
 Where it stops is judgement. An angry customer, a warranty fight, a carbon monoxide scare it was not primed for. It hands to a person and says so, rather than guessing. That is deliberate. An AI that invents an answer to fill a silence costs you the customer more thoroughly than voicemail does.

@@ -194,12 +194,12 @@ NexPhone is the third shelf on this page — an AI receptionist on a real US bus
 
 It answers 24/7 from the information you upload, takes the job details, and texts you the lead with a recording, a transcript and a summary. Missed-call text-back and two-way business texting sit on the same number. Calls and voicemail work the day you start. Outbound texting waits on a one-time carrier registration that takes a few business days.
 
-Buy a live virtual receptionist instead if you need the job booked into a calendar, a card taken on the call, or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. NexPhone does not do those three things. The AI hands anything it was not told about to a person rather than guessing.
+NexPhone can put the job on your calendar automatically. Buy a live virtual receptionist instead if you need a card taken on the call, or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. NexPhone does not do those two things. The AI hands anything it was not told about to a person rather than guessing.
 
 Most owners are taking calls the same day they sign up. A year of the $20 plan is one average live virtual-receptionist month on the menus above.
 :::
 
-NexPhone answers the business line 24/7 from about $20 a month. It will not book the job into your calendar — if that is the product, pay a live virtual receptionist for it. If the product is the phone getting answered at 9pm while your hands are full, [start here](https://nexphone.ai).
+NexPhone answers the business line 24/7 from about $20 a month. It can put the job on your calendar for you. If the product is the phone getting answered at 9pm while your hands are full, [start here](https://nexphone.ai).
 
 A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
 

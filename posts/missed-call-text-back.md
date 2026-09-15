@@ -39,7 +39,7 @@ It catches the person who will not leave a voicemail. It does not replace answer
 
 **How to turn it on:** a business number that can send SMS, one saved template, and a rule that fires on an unanswered call. In the US, outbound business texts wait on a one-time carrier registration that takes a few business days. Incoming calls do not wait on that step.
 
-**What it will not do:** book a calendar, take a card, or talk a panicking homeowner through a shut-off. For a burst pipe at 11pm, they still want a voice. The text is what you send when you could not be that voice.
+**What it will not do:** take a card or talk a panicking homeowner through a shut-off. For a burst pipe at 11pm, they still want a voice. The text is what you send when you could not be that voice.
 
 ## What it is
 

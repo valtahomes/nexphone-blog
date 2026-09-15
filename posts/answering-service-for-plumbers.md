@@ -117,9 +117,10 @@ doesn't punish a busy month. It never has an off night and never quits.
 a caller with a complaint or an unusual situation needs a person, and a confident wrong answer costs
 you more than a message would have.
 
-Most AI answering products do **not** book a calendar, take a card, or type into Jobber or
-ServiceTitan while the caller is still on the line. If those three things are the job, you are buying
-a live service. If the job is "answer the 11pm call, qualify it, and get it to me," AI is usually the
+Most AI answering products do **not** take a card or type into Jobber or ServiceTitan while the
+caller is still on the line, and many do not book a calendar either. If a card or your field-service
+software is the job, you are buying a live service. If it is the calendar, watch the booking happen
+on a live call before you pay. If the job is "answer the 11pm call, qualify it, and get it to me," AI is usually the
 cheaper tool.
 
 :::callout
@@ -255,13 +256,13 @@ A vendor-by-vendor walkthrough lives in [construction answering service](/blog/c
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
 
-NexPhone is the third kind on that list — an AI receptionist on a real US business line, from about **$20 a month** solo and **$45** for a team. Plans are on the [pricing page](https://nexphone.ai/pricing). It answers every call on the first ring, at any hour, holds a real conversation using the information you gave it about your business, and texts you the job with a transcript and a summary.
+NexPhone is the third kind on that list — an AI receptionist on a real US business line, from about **$20 a month** solo and **$40** for a team. Plans are on the [pricing page](https://nexphone.ai/pricing). It answers every call on the first ring, at any hour, holds a real conversation using the information you gave it about your business, and texts you the job with a transcript and a summary.
 
 Against the four questions above: it will ask what you tell it to ask. Water running, shut-off, address, rental — that is a script, and scripts are the part AI is genuinely good at. It does not have an off night, and it does not decide your 11pm call is somebody else's problem.
 
 :::callout
-**Stay with a live call centre if you need any of these.**
-The job booked straight into a calendar. A deposit taken over the phone. Details typed into Jobber, Housecall Pro or ServiceTitan while the homeowner is still talking. NexPhone does not do those three things, and no amount of wanting it to will change that this quarter. If dispatch-and-book is the product you are shopping for, pay a live service for it.
+**Stay with a live call centre if you need either of these.**
+A deposit taken over the phone. Details typed into Jobber, Housecall Pro or ServiceTitan while the homeowner is still talking. NexPhone does not do those two things. It does put the job on your calendar automatically. If payment or field-service software is the product you are shopping for, pay a live service for it.
 :::
 
 Where it stops is judgement. An angry customer, a complaint, anything it was not told about — it hands to a person and says so, rather than guessing. That is deliberate. An AI that invents an answer to fill a silence costs you the customer more thoroughly than voicemail does.

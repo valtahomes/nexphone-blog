@@ -9,7 +9,7 @@ faq:
   - q: How much does an AI answering service for small business cost?
     a: "Most AI answering products bill a monthly base plus, on some plans, a per-call charge. As of 31 August 2026, Smith.ai's AI Receptionist Pro is $150 a month for 75 calls at $2.00 a call. Live receptionist plans sit much higher — Ruby lists 50 minutes at $250 a month, and Smith.ai's live Starter is $300 a month for 30 calls. Flat AI phone plans also exist in the $20–$200 range. Price the month you will actually have, including after-hours calls, not the quiet week on the sales page."
   - q: Is an AI answering service good enough for a small business?
-    a: "If the job is answering every call, asking your questions, and getting the lead to you, yes. Voice AI picks up on the first ring at 2am, works from the information you gave it, and does not have a lunch break. If the job is booking a calendar slot, taking a card, or typing into field-service software while the caller is still talking, buy a live receptionist. Those are different products."
+    a: "If the job is answering every call, asking your questions, and getting the lead to you, yes. Voice AI picks up on the first ring at 2am, works from the information you gave it, and does not have a lunch break. If the job is taking a card or typing into field-service software while the caller is still talking, buy a live receptionist. If it is booking a calendar slot, check that the AI product you are looking at actually does it. Those are different products."
   - q: What is the difference between an AI answering service and a virtual receptionist?
     a: "A virtual receptionist is a person, usually in a call centre, following your script. An AI answering service is a voice AI on your business line that holds the conversation itself. Live operators are better at messy judgement and at tasks like taking payment. AI is better at picking up instantly, at any hour, for a cost that does not jump just because Saturday was busy."
   - q: Can an AI answering service book appointments or take payments?
@@ -31,7 +31,7 @@ Have someone call your line after 9pm and ask a question your script does not co
 
 An AI answering service is enough for a small business when the job is **answer the phone, ask your questions, and get the lead to you**. A voice AI can do that on the first ring, at any hour, from information you uploaded about the business. It will not get tired and it will not "get back to you tomorrow."
 
-It is not enough when the call has to **end with a calendar slot, a card on file, or a job already typed into field-service software**. Some vendors sell those extras. Many do not. Mixing the two in your head is how you buy the wrong thing.
+It is not enough when the call has to **end with a card on file or a job already typed into field-service software**. Some AI products also book the calendar slot. Many do not. Mixing the two in your head is how you buy the wrong thing.
 
 **What it costs, as of 31 August 2026:** live receptionist plans from Ruby start at **$250 a month** for 50 minutes. Smith.ai's live Starter is **$300 a month** for 30 calls. Smith.ai's AI Receptionist Pro is **$150 a month** for 75 calls at $2.00 a call, with a free tier at 25 calls. Flat AI phone plans also sit in a roughly **$20–$200** band. Always model a busy month, not an average one.
 
@@ -204,11 +204,11 @@ NexPhone is an AI receptionist on a real US business line, built for owners who 
 
 It is the right tool if you need the phone answered at 11pm, the lead on your lock screen, and a bill that does not jump because Saturday was busy.
 
-**Buy something else if you need any of these on the call:** the job booked into a calendar, a card taken, or details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. NexPhone does not do those three things. If dispatch-and-book is the product, pay a live service for it. That is the honest split, not a footnote.
+**Buy something else if you need either of these on the call:** a card taken, or details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. NexPhone does not do those two things. It can put the job on your calendar automatically. If payment or field-service software is the product, pay a live service for it. That is the honest split, not a footnote.
 :::
 
 Where it stops is judgement. An angry customer, a complaint, anything it was not told about — it hands to a person and says so. It does not fill silence with a guess. That is deliberate. A wrong answer is worse than a message.
 
 Setup is a US number, local or toll-free, plus your existing line forwarded if you want to keep the one on the van. Calls and voicemail work from day one. Outbound business texting waits on that carrier registration — a few business days, not instant. Every plan includes a pool of AI receptionist minutes (30 on Pro, 60 on Team, 100 on Business); if you need more, an AI add-on starts at $25 a month and stacks on top. Nothing on the pricing page is billed until you confirm, and you can cancel.
 
-A year of that coverage is still cheaper than a handful of after-hours jobs you never heard ring. It will not book the calendar. If you need the line answered while both hands are in a blower motor, [start here](https://nexphone.ai).
+A year of that coverage is still cheaper than a handful of after-hours jobs you never heard ring. It can put the job on your calendar too. If you need the line answered while both hands are in a blower motor, [start here](https://nexphone.ai).

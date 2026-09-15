@@ -189,7 +189,7 @@ It answers on the first ring, at any hour, from the information you uploaded abo
 
 :::callout
 **Where NexPhone fits**
-Buy it if the job is "answer the line, qualify the caller, get the details to me," including at 11pm, for a cost that does not jump just because you were busy. Buy a live receptionist instead if you need the job booked into a calendar, a card taken on the call, or notes typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. We do not do those three things.
+Buy it if the job is "answer the line, qualify the caller, get the details to me," including at 11pm, for a cost that does not jump just because you were busy. It can put the job on your calendar automatically. Buy a live receptionist instead if you need a card taken on the call, or notes typed into Jobber, Housecall Pro or ServiceTitan while the caller is still talking. We do not do those two things.
 :::
 
 It also will not invent an answer. Anything it was not told, it hands to a person. That is slower than a confident guess and cheaper than a one-star review.
@@ -198,4 +198,4 @@ Two setup limits, both real. Business texting needs a one-time carrier registrat
 
 If you want the category context for that kind of product, it is in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
 
-NexPhone answers the business line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It will not book the job into your calendar. If you need that, pay a live service. If you need the phone answered when both hands are full, [start here](https://nexphone.ai).
+NexPhone answers the business line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It can put the job on your calendar for you. If you need the phone answered when both hands are full, [start here](https://nexphone.ai).

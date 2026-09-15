@@ -87,7 +87,7 @@ It picks up on the first ring, at 3am, on Christmas, for a monthly cost that doe
 
 Judgement is the failure mode. An AI that always produces an answer is worse than voicemail. A client calling to complain about a punch list, or a homeowner describing a situation you have never seen, needs a person. A confident wrong answer costs you the review and the remaining draws on the job.
 
-Most AI answering products do not book a calendar, take a card, or type into Jobber, Housecall Pro, or ServiceTitan while the caller is still talking. If those three things are the job, you are buying a live service. If the job is "answer the 6:47pm call, find out if it is a bid or a job-site problem, and get it to me," AI is usually the cheaper tool. The category write-up is in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
+Most AI answering products do not take a card or type into Jobber, Housecall Pro, or ServiceTitan while the caller is still talking, and many do not book a calendar either. If a card or your field-service software is the job, you are buying a live service. If it is the calendar, watch the booking happen on a live call before you pay. If the job is "answer the 6:47pm call, find out if it is a bid or a job-site problem, and get it to me," AI is usually the cheaper tool. The category write-up is in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
 
 Smith.ai's AI receptionist, listed 8 September 2026, starts free with **25 calls a month** then **$3.00 a call**, with a **Pro plan at $150 a month** and **$2.00 a call** inside a 75-call bundle. Extra real calls on Pro are listed at **$2.50**. They describe a human backup: the AI answers first, and a live North America agent can take over. Spam handling is different from their live plans. Known spammers are filtered, and they offer an allowance to remove up to 10% of calls from the bill. Every answered call still counts toward the quota by default.
 
@@ -202,11 +202,11 @@ Against the four questions above: it will ask what you tell it to ask. Active jo
 
 :::callout
 **Where NexPhone fits**
-Stay with a live call centre if you need the job booked straight into a calendar, a deposit taken over the phone, or details typed into Jobber, Housecall Pro, or ServiceTitan while the homeowner is still talking. NexPhone does not do those three things, and wanting it to will not change that this quarter. If dispatch-and-book is the product you are shopping for, pay a live service for it.
+NexPhone can put the walkthrough on your calendar automatically. Stay with a live call centre if you need a deposit taken over the phone, or details typed into Jobber, Housecall Pro, or ServiceTitan while the homeowner is still talking. NexPhone does not do those two things. If payment or field-service software is the product you are shopping for, pay a live service for it.
 :::
 
 Where it stops is judgement. An angry client, a dispute on an active job, anything it was not told about. It hands to a person and says so, rather than guessing. That is deliberate. An AI that invents an arrival time to fill a silence costs you more than voicemail does.
 
 Before you sign up: business texting needs a one-time carrier registration that takes a few business days. Calls and voicemail work from day one, and your existing number keeps working. Forward the line on the truck and the Google listing straight to it.
 
-A year of coverage costs less than one missed "we want to go ahead this weekend" call is worth. NexPhone answers the line 24/7 for about $20 a month, and most owners are taking calls the same day they sign up. It will not book the walkthrough into your calendar. If you need that, buy a live service. If you need the phone answered while you are on the roof, [start here](https://nexphone.ai).
+A year of coverage costs less than one missed "we want to go ahead this weekend" call is worth. NexPhone answers the line 24/7 for about $20 a month, and most owners are taking calls the same day they sign up. It can put the walkthrough on your calendar too. If you need the phone answered while you are on the roof, [start here](https://nexphone.ai).

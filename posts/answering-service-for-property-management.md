@@ -173,7 +173,7 @@ A vendor-by-vendor walkthrough lives in [construction answering service](/blog/c
 
 Everything above applies to whatever you buy. This section is about our own product, so weigh it accordingly.
 
-NexPhone is the third kind on that list: an AI receptionist on a real US business line, from about **$20 a month** solo and **$45** for a team. Plans are on the [pricing page](https://nexphone.ai/pricing). It answers every call on the first ring at any hour, holds a conversation using the information you gave it about your properties and your rules, and texts you the call with a transcript and a summary. Forty simultaneous callers during an outage get answered simultaneously, which is the one thing a human queue structurally cannot do.
+NexPhone is the third kind on that list: an AI receptionist on a real US business line, from about **$20 a month** solo and **$40** for a team. Plans are on the [pricing page](https://nexphone.ai/pricing). It answers every call on the first ring at any hour, holds a conversation using the information you gave it about your properties and your rules, and texts you the call with a transcript and a summary. Forty simultaneous callers during an outage get answered simultaneously, which is the one thing a human queue structurally cannot do.
 
 Against the triage list above: it will ask what you tell it to ask. Property, unit, is it on the emergency list, is anyone unsafe. That is a script, and scripts are the part AI is genuinely good at. Every call comes back recorded, transcribed and summarised, which is the dated record this business runs on.
 

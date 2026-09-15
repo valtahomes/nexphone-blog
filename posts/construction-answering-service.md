@@ -13,7 +13,7 @@ faq:
   - q: Do construction answering services work after hours and at 6am?
     a: "Some do with the same people who answer at noon. Some hand nights, weekends, and the 6am GC call to a cheaper overflow team. Ask who is on the line at 6:15am Monday and at 7pm Saturday, by name of the team, before you sign. That window is when bid awards and homeowner calls actually arrive."
   - q: Should a construction company use AI or a live answering service?
-    a: "Use AI if the job is answering every ring, asking your intake questions, and texting you the lead while the crew is on site. Use a live service if you need a site visit booked into a calendar, a deposit taken, or notes typed into field software during the call. Those are different products sold under the same search term."
+    a: "Use AI if the job is answering every ring, asking your intake questions, and texting you the lead while the crew is on site. Use a live service if you need a deposit taken or notes typed into field software during the call. Those are different products sold under the same search term."
   - q: Can I keep my existing construction business number?
     a: "Yes. Forward the number on your trucks, yard sign, and Google listing to the answering service and callers never see a change. Forwarding carries voice, not texts. If you want that same number to text customers, it has to be ported, which is a carrier process, not a toggle."
 ---
@@ -81,7 +81,7 @@ Ruby and Smith.ai, priced below, sit in this band.
 
 A voice AI answers, holds a conversation from information you uploaded, asks your intake questions, and sends you the lead — transcript, summary, text.
 
-It picks up on the first ring at 6am, on a Sunday, on a holiday pour. The monthly cost does not jump because March was busy. What it cannot do, on most products, is book a calendar, take a card, or type into Jobber, Buildertrend, or ServiceTitan while the caller is still talking. If those three things are the job, you are buying live. If the job is "answer it, qualify it, get it to me," AI is usually the cheaper tool.
+It picks up on the first ring at 6am, on a Sunday, on a holiday pour. The monthly cost does not jump because March was busy. What it cannot do, on most products, is take a card or type into Jobber, Buildertrend, or ServiceTitan while the caller is still talking, and many products do not book a calendar either. If a card or that software is the job, you are buying live. If the job is "answer it, qualify it, get it to me," AI is usually the cheaper tool.
 
 The failure mode is improvising. An AI that invents a start date or a price you never gave it will lose the GC and earn you a review. The question to ask is what it does when it does not know. Hand-off to a human is the acceptable answer. Guessing is not.
 
@@ -183,11 +183,11 @@ Everything above is about the category. This section is our product. Weigh it th
 **Where NexPhone fits**
 NexPhone is an AI receptionist on a real US business line. Solo is **$20 a month** (Pro). A shared team line is **$40 a month**. Plans are on the [pricing page](https://nexphone.ai/pricing), checked 10 September 2026. It answers on the first ring, at 6am and at 7pm, from the information you uploaded about your company, and texts you the job with a recording, a transcript, and a summary. Against the five questions above, it asks what you tell it to ask. It does not have an off night and it does not decide your GC's call is somebody else's problem.
 
-Stay with a live receptionist if you need the site visit booked into a calendar, a deposit taken on the call, or notes typed into Jobber, Housecall Pro, Buildertrend, or ServiceTitan while the caller is still talking. NexPhone does not do those three things. If dispatch-and-book is the product you are shopping for, pay a live service for it.
+NexPhone can put the site visit on your calendar automatically. Stay with a live receptionist if you need a deposit taken on the call, or notes typed into Jobber, Housecall Pro, Buildertrend, or ServiceTitan while the caller is still talking. NexPhone does not do those two things. If payment or field-service software is the product you are shopping for, pay a live service for it.
 
 Where it stops is judgement. An angry GC, a complaint, anything it was not told — it hands to a person rather than guessing. That is deliberate. An invented start date costs more than voicemail.
 
 Calls and voicemail work the day you sign up. Business texting needs a one-time carrier registration that takes a few business days, so do not plan on outbound SMS the afternoon you forward the truck number. Most owners are taking calls the same day.
 :::
 
-A year of that coverage is cheaper than one framing package you never got to bid because the saw was running. If you need the line answered while the crew is on site, and you can live without calendar booking, [start here](https://nexphone.ai).
+A year of that coverage is cheaper than one framing package you never got to bid because the saw was running. If you need the line answered while the crew is on site, [start here](https://nexphone.ai).

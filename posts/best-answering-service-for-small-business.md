@@ -7,11 +7,11 @@ author: NexPhone Team
 cover: images/best-answering-service-for-small-business/cover.webp
 faq:
   - q: What is the best answering service for a small business?
-    a: "There isn't one. A live receptionist (Ruby, Smith.ai, AnswerConnect, Abby, PATLive) is the right buy if someone has to book a calendar, take a card, or follow a messy script while you are on a job. An AI receptionist (Smith.ai AI, Nextiva XBert, Rosie) is the right buy if the job is answering every call, taking the details, and getting them to you. Price the same month of your calls on both shapes before you pick a brand."
+    a: "There isn't one. A live receptionist (Ruby, Smith.ai, AnswerConnect, Abby, PATLive) is the right buy if someone has to take a card or follow a messy script while you are on a job. An AI receptionist (Smith.ai AI, Nextiva XBert, Rosie) is the right buy if the job is answering every call, taking the details, and getting them to you. Price the same month of your calls on both shapes before you pick a brand."
   - q: How much does an answering service for small business cost?
     a: "Live plans we opened on 19 August 2026 start around $165–$350 a month for a small minute or call bundle, and climb past $700 once you need 200 minutes. AI plans on the same date start at $49 a month (Rosie, 250 minutes) and $99 a month (Nextiva XBert, 100 interactions, on top of a phone plan). The number that matters is a busy month of your actual calls, including wrong numbers, not the headline rate."
   - q: Is an AI answering service good enough for a small business?
-    a: "For answering, qualifying and passing the job on, yes — it picks up on the first ring at 11pm, and the bill does not jump because it was a Saturday. Where it should stop is judgement: a complaint, a caller who will not answer the script, or anything it was not told about should go to a person. Most AI products still do not book a calendar, take a card, or type into Jobber while the caller is on the line. If those three are the job, buy live."
+    a: "For answering, qualifying and passing the job on, yes — it picks up on the first ring at 11pm, and the bill does not jump because it was a Saturday. Where it should stop is judgement: a complaint, a caller who will not answer the script, or anything it was not told about should go to a person. Most AI products still do not take a card or type into Jobber while the caller is on the line, and many do not book a calendar. If a card or Jobber is the job, buy live."
   - q: Can I keep my existing business phone number with an answering service?
     a: "Yes. The usual path is to forward your current line, so the number on the van and the Google listing does not change. Forwarding carries calls. It does not carry texts. If you want the same number to text customers, it has to be ported. Ask the vendor which of those two they actually do before you print new magnets."
   - q: Do cheap answering services work after hours?
@@ -70,9 +70,10 @@ job details, and passes you the lead. Good at the first ring, at 3am, on a bill
 that does not jump because Saturday was busy. Bad at judgement if it always
 produces an answer.
 
-Most AI products do **not** book a calendar, take a card, or type into Jobber,
-Housecall Pro or ServiceTitan while the caller is on the line. If those three
-are the job, buy live. If the job is "answer it, qualify it, get it to me," AI
+Most AI products do **not** take a card or type into Jobber, Housecall Pro or
+ServiceTitan while the caller is on the line, and many do not book a calendar.
+If a card or field-service software is the job, buy live. If it is the calendar,
+watch the booking happen on a live call first. If the job is "answer it, qualify it, get it to me," AI
 is usually cheaper.
 
 ## How we ranked these seven
@@ -381,12 +382,11 @@ text-back is part of the product.
 :::callout
 **Where NexPhone fits**
 Right for a solo or small home-service owner who needs the phone answered at any
-hour and will book the job themselves from the transcript. Buy Ruby, Smith live,
-AnswerConnect, Abby or PATLive instead if you need the job booked into a
-calendar, a card taken over the phone, or the details typed into Jobber,
-Housecall Pro or ServiceTitan while the caller is still on the line. NexPhone
-does none of those three. The price gap between us and those live plans is
-roughly what those three things cost.
+hour and the job put on the calendar automatically. Buy Ruby, Smith live,
+AnswerConnect, Abby or PATLive instead if you need a card taken over the phone,
+or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller
+is still on the line. NexPhone does neither. The price gap between us and those
+live plans is roughly what those two things cost.
 :::
 
 Where it stops is judgement. An angry customer, a complaint, anything it was
@@ -398,6 +398,5 @@ line so the number on the van keeps working.
 
 If the phone ringing four times and going to voicemail is the problem, pick a
 number, tell it about your business, and forward the line. Most owners are
-taking calls the same day. It will not book the job into your calendar. If you
-need that, buy a live service from the list above. If you need the phone
-answered at 11pm, the plans are on the pricing page.
+taking calls the same day. It can put the job on your calendar for you. If you
+need the phone answered at 11pm, the plans are on the pricing page.

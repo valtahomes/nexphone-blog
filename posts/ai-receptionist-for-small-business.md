@@ -11,11 +11,11 @@ faq:
   - q: How much does an AI receptionist cost for a small business?
     a: "Flat plans run from about $20 a month to a few hundred. Hybrid products that keep a live agent behind the AI cost more. Smith.ai's AI Receptionist Pro was $150 a month plus $2.00 a call on 19 August 2026. Price a busy month, not a quiet one."
   - q: Can an AI receptionist book appointments and take payments?
-    a: "Some of the more expensive products will push a slot into Calendly. A live virtual receptionist can take a card. Most AI receptionists built for one-van and small-team businesses do neither. If you need the Friday 2pm slot taken before they hang up, confirm that workflow on a live call."
+    a: "Some AI receptionists will put the appointment on your calendar during the call. Taking a card is still mostly a live virtual receptionist's job. If you need the Friday 2pm slot taken before they hang up, confirm that workflow on a live call."
   - q: Will callers know they are talking to an AI?
     a: "Often, yes. The voice is close and the conversation is not perfect. If they ask, tell them. They care whether the line picked up, whether their question got a real answer, and whether someone competent is coming."
   - q: Is an AI receptionist better than a traditional answering service?
-    a: "For after-hours pickup, the same questions every time, and a bill that does not jump when you get busy, usually. For judgement, complaints, a calendar booking, or a ticket in Jobber during the call, a live service still wins. Buy the tool that matches the job."
+    a: "For after-hours pickup, the same questions every time, and a bill that does not jump when you get busy, usually. For judgement, complaints, a card, or a ticket in Jobber during the call, a live service still wins. Buy the tool that matches the job."
 ---
 
 It is 2:17 on a Thursday. You are halfway through a job (on a roof, under a sink, in a client's
@@ -42,10 +42,9 @@ hundreds on the high end. Hybrid products that keep a live agent behind the AI c
 often add a per-call rate. Live virtual receptionists are a different bill. Smith.ai's
 human-first Starter plan was **$300 a month for 30 calls** on 19 August 2026.
 
-Most of these tools will not book the job into a calendar, take a card, or type into Jobber,
-Housecall Pro or ServiceTitan while the caller is still talking. A few of the more expensive
-ones will push a calendar slot. Almost none will run your field-service software. If those are
-the job, buy live.
+Most of these tools will not take a card or type into Jobber, Housecall Pro or ServiceTitan
+while the caller is still talking. Some will put the job on a calendar. Almost none will run
+your field-service software. If a card or that software is the job, buy live.
 
 Judge it on what it does when the caller asks something it was not told. That is the failure
 that turns a recoverable call into a one-star review.
@@ -315,8 +314,8 @@ A vendor-by-vendor walkthrough lives in [construction answering service](/blog/c
 NexPhone is a pure AI receptionist on a real US business line, for the owner who misses jobs
 because both hands are full. Right buy if you want the 11pm call answered, qualified from your
 own information, and texted to you with a transcript, for about **$20 a month** on the solo
-plan. Wrong buy if you need the job booked, a card taken, or a ticket typed into field-service
-software during the call. Those three are a live service. Plans are on the
+plan. It can put the job on your calendar automatically. Wrong buy if you need a card taken or a
+ticket typed into field-service software during the call. Those two are a live service. Plans are on the
 [pricing page](https://nexphone.ai/pricing).
 :::
 
@@ -334,9 +333,9 @@ starting at **$25 a month**. Nothing is charged until you confirm. You can cance
 
 :::callout
 **Buy a live service instead if this is the job.**
-The appointment on the calendar before they hang up. A deposit taken over the phone. The ticket
-sitting in Jobber, Housecall Pro or ServiceTitan while the caller is still talking. NexPhone
-does none of those three.
+A deposit taken over the phone. The ticket sitting in Jobber, Housecall Pro or ServiceTitan
+while the caller is still talking. NexPhone does neither. It does put the appointment on your
+calendar.
 :::
 
 An angry customer, a complaint, anything it was not told about: it hands off to a person and
@@ -347,6 +346,5 @@ NexPhone's pricing page puts the pass-through at about **$19 once** and about **
 Calls and voicemail work from day one. Your existing number can keep working: forward the line
 on the van and the Google listing, or port it if you also want that number to text.
 
-Most owners are taking calls the same day they sign up. It will not book the job into your
-calendar. If you need that, buy a live service. If you need the phone answered at 11pm, the
-plans are on the pricing page.
+Most owners are taking calls the same day they sign up, and it can put the job on your
+calendar for you. If you need the phone answered at 11pm, the plans are on the pricing page.

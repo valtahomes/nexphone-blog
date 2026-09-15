@@ -101,7 +101,7 @@ It does not have an off night and it does not swap in a weaker team after dark. 
 
 Where it should stop is judgement. An upset customer, a complaint, a situation it was not told about. Those need a person. An AI that always produces an answer is worse than voicemail. The category breakdown, including who this is for, lives in [AI receptionist for small business](/blog/ai-receptionist-for-small-business).
 
-Most AI answering products do not book a calendar, take a card, or type into Jobber, Housecall Pro, or ServiceTitan while the caller is still on the line. If those three things are the job, you are buying a live service. If the job is “answer the 11pm call, qualify it, and get it to me,” AI is usually the cheaper tool.
+Most AI answering products do not take a card or type into Jobber, Housecall Pro, or ServiceTitan while the caller is still on the line, and many do not book a calendar either. If a card or your field-service software is the job, you are buying a live service. If it is the calendar, watch the booking happen on a live call before you pay. If the job is “answer the 11pm call, qualify it, and get it to me,” AI is usually the cheaper tool.
 
 :::callout
 **Ask this of any after-hours provider, live or AI:**
@@ -210,11 +210,11 @@ NexPhone is an AI receptionist on a real US business line. It answers at 11pm th
 
 It is the right tool if the job is pick up the after-hours call, qualify it, and get it to you. It does not staff a weaker night shift, and it does not decide your 11pm call is somebody else’s problem.
 
-**Buy a live service instead if you need any of these:** the job booked straight into a calendar, a deposit taken over the phone, or details typed into Jobber, Housecall Pro, or ServiceTitan while the caller is still talking. NexPhone does not do those three things. If dispatch-and-book is the product you are shopping for, pay a live receptionist for it.
+**Buy a live service instead if you need either of these:** a deposit taken over the phone, or details typed into Jobber, Housecall Pro, or ServiceTitan while the caller is still talking. NexPhone does not do those two things. It can put the job on your calendar automatically. If taking payment or working inside your field-service software is the product you are shopping for, pay a live receptionist for it.
 
 Every plan includes a pool of AI-receptionist minutes (30 on Pro, 60 on Team, 100 on Business). After-hours-only lines are often fine on that. If you want the AI on more of the day, AI add-on plans start at $25 a month and sit on top of those minutes. When the AI minutes run out, it hands off to voicemail or your team rather than improvising.
 
 Business texting needs a one-time carrier registration that takes a few business days. Calls and voicemail work from day one. Forward the number already on the van and the Google listing; nothing on the truck wrap has to change.
 :::
 
-NexPhone answers the line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It will not book the job into your calendar. If you need that, buy a live service. If you need the phone answered at 11pm, [start here](https://nexphone.ai).
+NexPhone answers the line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It can put the job on your calendar for you. If you need the phone answered at 11pm, [start here](https://nexphone.ai).

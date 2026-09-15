@@ -127,7 +127,7 @@ AnswerConnect does not publish a price. Ignore any third-party blog that claims 
 
 :::callout
 **Stay with a live service if this is you.**
-You need someone to book the job into a calendar, take a card, or type into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. Most AI answering products do not do those three things. Paying a live service for them is rational.
+You need someone to take a card or type into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. Most AI answering products do not do those two things. Paying a live service for them is rational.
 :::
 
 ## What the invoice hides
@@ -194,11 +194,11 @@ A vendor-by-vendor walkthrough lives in [construction answering service](/blog/c
 
 Everything above is the market. This section is us, so read it with that in mind.
 
-NexPhone is the flat shape: a real US business number with an AI receptionist answering it, from about **$20 a month** solo and **$45** for a team. Current plans and what each includes are on the [pricing page](https://nexphone.ai/pricing) — we are deliberately not restating them here, because every other number in this guide carries the date we checked it, and a plan page moves faster than a blog post.
+NexPhone is the flat shape: a real US business number with an AI receptionist answering it, from about **$20 a month** solo and **$40** for a team. Current plans and what each includes are on the [pricing page](https://nexphone.ai/pricing) — we are deliberately not restating them here, because every other number in this guide carries the date we checked it, and a plan page moves faster than a blog post.
 
 :::callout
-**Buy a live service instead if any of these is a yes.**
-You need the job booked into a calendar, a card taken over the phone, or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. NexPhone does none of those three. If that is the job, Ruby or Smith are the rational purchase, and the price gap between them and us is roughly what those three things cost.
+**Buy a live service instead if either of these is a yes.**
+You need a card taken over the phone, or the details typed into Jobber, Housecall Pro or ServiceTitan while the caller is still on the line. NexPhone does neither, though it does put the job on your calendar automatically. If that is the job, Ruby or Smith are the rational purchase, and the price gap between them and us is roughly what those two things cost.
 :::
 
 What it does do is answer — at 11pm, on a Sunday, in a real conversation rather than a phone tree — using the information you uploaded about your own business. Then it records the call, transcribes it, summarises it in a line, and texts you the lead. If what is costing you money is the phone ringing four times and going to voicemail, a year of that costs less than a single after-hours call-out is worth.

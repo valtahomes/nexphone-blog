@@ -10,7 +10,8 @@ At the end of any substantive session â€” and when asked to update everything â€
 
 ## Hard rules
 
-- Do not invent NexPhone features. No calendar booking, no payments, no Jobber/Housecall Pro/ServiceTitan, texting is not instant.
+- Do not invent NexPhone features. No payments, no Jobber/Housecall Pro/ServiceTitan, texting is not instant. Calendar booking IS real: NexPhone puts the job on the owner's calendar automatically (Howard, 15 Sep 2026).
+- NexPhone prices come only from https://nexphone.ai/pricing, the source of truth.
 - NexPhone never appears inside a neutral vendor ranking. BOFU sells after it, under **Where NexPhone fits**.
 - No GFM tables in post bodies. No 62% missed-call statistic. Never cite getnextphone.com. Never write "Valta Voice".
 - Filename is the permanent URL. `draft: true` hides from index/RSS; delete that line to publish.
