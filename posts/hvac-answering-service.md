@@ -184,25 +184,7 @@ Two more are worth adding if your shop cares about them: the age of the system, 
 
 An answering service that collects a name and a number has handed you a message. One that collects those four answers has handed you a qualified job you can price before you get in the van.
 
-A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
-
-A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
-
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [Answering Service for Property Management](/blog/answering-service-for-property-management) · [Electrician Answering Service](/blog/electrician-answering-service) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

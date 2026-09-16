@@ -184,17 +184,7 @@ If the vendor will not let you call the production line after hours before you s
 
 Keep the existing number if you can. Forwarding is the usual path. The number on the van stays put, calls get answered. Forwarding does not carry texts. Porting does, and it is slower. Business texting on a new or ported number often needs a one-time carrier registration that takes a few business days. Calls and voicemail should work from day one. If a salesperson says texts will fire the minute you swipe a card, they are skipping that step.
 
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

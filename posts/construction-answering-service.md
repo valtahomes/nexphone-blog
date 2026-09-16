@@ -175,6 +175,8 @@ Do not skip the 6:15am question. A construction answering service that is excell
 
 Keep your existing number. Forward the line on the trucks and the Google listing so nothing on the wrap changes. Forwarding carries voice. Texts stay behind unless you port. If you want a second, cleaner line for ads, a [toll free number for business](/blog/toll-free-number-for-business) is the usual add, not a replacement for the number people already have.
 
+Related guides: [Electrician Answering Service](/blog/electrician-answering-service) · [Answering Service for Property Management](/blog/answering-service-for-property-management) · [HVAC Answering Service](/blog/hvac-answering-service)
+
 ## Where NexPhone fits
 
 Everything above is about the category. This section is our product. Weigh it that way.

@@ -168,27 +168,7 @@ Model a busy month :: Use your worst recent month, not the average. The bill ris
 
 If the live quote is more than one emergency job, and the AI quote is less than one, the decision is not about the brand on the quote. It is about whether you will book the job yourself after the call.
 
-A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
-
-A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
-
-A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
-
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [Virtual Receptionist Pricing in 2026](/blog/virtual-receptionist-pricing) · [Low-Cost Answering Service](/blog/low-cost-answering-service) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

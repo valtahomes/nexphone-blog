@@ -194,20 +194,4 @@ Calls and voicemail work the day you start. Outbound business texting waits on c
 
 A year of the $20 plan is less than one after-hours ticket on Angi's ranges. It can put the job on your calendar for you. If you need the phone answered at 11pm and the lead on your phone when you put the tools down, [start here](https://nexphone.ai).
 
-A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
-
-A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
-
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [AI Answering Service for Small Business](/blog/ai-answering-service-for-small-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)

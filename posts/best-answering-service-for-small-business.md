@@ -343,27 +343,7 @@ going to invent a burden rate.
 Hire the person if you need a body at a desk. Do not hire them to be a 24/7
 phone tree. That is the job the seven vendors above are for.
 
-A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
-
-A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
-
-A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
-
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [Google Voice for Business](/blog/google-voice-for-business) · [Construction Answering Service](/blog/construction-answering-service) · [Low-Cost Answering Service](/blog/low-cost-answering-service)
 
 ## Where NexPhone fits
 

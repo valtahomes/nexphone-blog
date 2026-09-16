@@ -188,9 +188,7 @@ Optional fifth, if insurance work is part of your book: is this a claim, and is 
 
 Train the script on your actual jobs for a week. Then call your own line at 7pm from a number that is not in your contacts and try to sound like a tired homeowner. That test is worth more than a demo.
 
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [Electrician Answering Service](/blog/electrician-answering-service) · [Construction Answering Service](/blog/construction-answering-service) · [Answering Service for Property Management](/blog/answering-service-for-property-management)
 
 ## Where NexPhone fits
 

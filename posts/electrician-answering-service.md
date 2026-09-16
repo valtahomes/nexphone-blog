@@ -194,12 +194,4 @@ Before you sign up: business texting needs a one-time carrier registration that 
 
 A year of coverage is usually cheaper than one after-hours panel job. NexPhone answers the business line 24/7 from about $20 a month, and most owners are taking calls the same day they sign up. It can put the job on your calendar for you. If you need the phone answered at 10pm, [start here](https://nexphone.ai).
 
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [Answering Service for Property Management](/blog/answering-service-for-property-management) · [Answering Service for Contractors](/blog/answering-service-for-contractors) · [After-Hours Answering Service](/blog/after-hours-answering-service)

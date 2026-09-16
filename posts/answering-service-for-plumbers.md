@@ -230,27 +230,7 @@ If you want the industry-wide breakdown of per-minute vs per-call vs flat, that 
 prices them on one month of calls. The test for a plumbing company is still the same: what happens
 on the 11pm call, and what a month of that coverage actually costs against one emergency job.
 
-A vendor-by-vendor walkthrough lives in [hvac answering service](/blog/hvac-answering-service).
-
-A vendor-by-vendor walkthrough lives in [ai receptionist pricing](/blog/ai-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [missed call text back](/blog/missed-call-text-back).
-
-A vendor-by-vendor walkthrough lives in [virtual receptionist pricing](/blog/virtual-receptionist-pricing).
-
-A vendor-by-vendor walkthrough lives in [ai answering service for small business](/blog/ai-answering-service-for-small-business).
-
-A vendor-by-vendor walkthrough lives in [electrician answering service](/blog/electrician-answering-service).
-
-A vendor-by-vendor walkthrough lives in [after hours answering service](/blog/after-hours-answering-service).
-
-A vendor-by-vendor walkthrough lives in [toll free number for business](/blog/toll-free-number-for-business).
-
-A vendor-by-vendor walkthrough lives in [answering service for contractors](/blog/answering-service-for-contractors).
-
-A vendor-by-vendor walkthrough lives in [low cost answering service](/blog/low-cost-answering-service).
-
-A vendor-by-vendor walkthrough lives in [construction answering service](/blog/construction-answering-service).
+Related guides: [HVAC Answering Service](/blog/hvac-answering-service) · [Answering Service for Property Management](/blog/answering-service-for-property-management) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 
