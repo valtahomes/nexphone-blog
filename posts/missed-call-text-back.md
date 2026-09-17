@@ -186,4 +186,4 @@ For everyone else, the order is simple. Answer when you can. Text in seconds whe
 
 Set the template, register the number, and test it from a second phone before the next Saturday roof.
 
-Related guides: [Toll-Free Number for Business](/blog/toll-free-number-for-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Toll-Free Number for Business](/blog/toll-free-number-for-business) · [How to Get a Business Phone Number](/blog/how-to-get-a-business-phone-number) · [After-Hours Answering Service](/blog/after-hours-answering-service)

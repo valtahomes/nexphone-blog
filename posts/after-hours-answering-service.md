@@ -191,7 +191,7 @@ Then test it. Do not skip this.
 
 Call your own line after 9pm from a number that is not in your contacts. Play an emergency. Play a “can you come Tuesday.” Play something the script does not cover: a complaint, a weird access issue, a landlord who has to approve the spend. Time the gap between hang-up and your phone buzzing. If that gap is measured in hours, keep shopping.
 
-Related guides: [Google Voice for Business](/blog/google-voice-for-business) · [Construction Answering Service](/blog/construction-answering-service) · [Low-Cost Answering Service](/blog/low-cost-answering-service)
+Related guides: [How to Get a Business Phone Number](/blog/how-to-get-a-business-phone-number) · [Google Voice for Business](/blog/google-voice-for-business) · [Construction Answering Service](/blog/construction-answering-service)
 
 ## Where NexPhone fits
 
