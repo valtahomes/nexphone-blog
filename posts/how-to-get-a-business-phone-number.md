@@ -184,4 +184,4 @@ That last step is the one people skip, and it is the one that costs money. A $10
 
 NexPhone is one of those paid products: an AI receptionist on a real US business line. It is not free. It answers 24/7 from the information you give it, texts you the lead, and puts the job on your calendar. It will not take a card over the phone. Calls work from day one; business texting waits on carrier registration. If that is the job, [start here](https://nexphone.ai).
 
-Related guides: [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [10DLC Registration](/blog/10dlc-registration) · [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)
