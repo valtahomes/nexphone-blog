@@ -343,7 +343,7 @@ going to invent a burden rate.
 Hire the person if you need a body at a desk. Do not hire them to be a 24/7
 phone tree. That is the job the seven vendors above are for.
 
-Related guides: [10DLC Registration](/blog/10dlc-registration) · [RingCentral Pricing](/blog/ringcentral-pricing) · [How to Get a Business Phone Number](/blog/how-to-get-a-business-phone-number)
+Related guides: [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [10DLC Registration](/blog/10dlc-registration) · [RingCentral Pricing](/blog/ringcentral-pricing)
 
 ## Where NexPhone fits
 

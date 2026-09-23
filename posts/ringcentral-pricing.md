@@ -182,4 +182,4 @@ Business texting needs a one-time carrier registration. That takes a few busines
 
 NexPhone answers the business line 24/7 for about $20 a month, and most owners are taking calls the same day they sign up. It will not take a card over the phone and it will not replace RingCentral for a 40-person office. If you need the phone answered at 11pm without buying a platform, [start here](https://nexphone.ai).
 
-Related guides: [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [After-Hours Answering Service](/blog/after-hours-answering-service)

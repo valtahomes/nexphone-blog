@@ -187,7 +187,7 @@ Read the inactivity and fair-use lines :: Basic Voice can reclaim a quiet number
 
 If you already have Voice and it is doing the number job, you do not have to rip it out to fix answering. Forwarding the line is how most shops add coverage without reprinting the van. Forwarding carries calls. It does not carry texts. If the same number has to text customers, that is a port, not a forward.
 
-Related guides: [RingCentral Pricing](/blog/ringcentral-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [RingCentral Pricing](/blog/ringcentral-pricing) · [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

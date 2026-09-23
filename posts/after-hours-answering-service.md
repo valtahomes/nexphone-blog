@@ -191,7 +191,7 @@ Then test it. Do not skip this.
 
 Call your own line after 9pm from a number that is not in your contacts. Play an emergency. Play a “can you come Tuesday.” Play something the script does not cover: a complaint, a weird access issue, a landlord who has to approve the spend. Time the gap between hang-up and your phone buzzing. If that gap is measured in hours, keep shopping.
 
-Related guides: [10DLC Registration](/blog/10dlc-registration) · [RingCentral Pricing](/blog/ringcentral-pricing) · [How to Get a Business Phone Number](/blog/how-to-get-a-business-phone-number)
+Related guides: [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [10DLC Registration](/blog/10dlc-registration) · [RingCentral Pricing](/blog/ringcentral-pricing)
 
 ## Where NexPhone fits
 
