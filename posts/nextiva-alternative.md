@@ -167,7 +167,7 @@ Outbound business texting on any new US number needs 10DLC registration with the
 
 If a salesperson cannot walk the 11pm call in one paragraph, you are buying a daytime product.
 
-Related guides: [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

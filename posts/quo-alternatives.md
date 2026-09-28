@@ -205,7 +205,7 @@ Do this in order. Skipping the first question wastes a week.
 
 Test one after-hours call yourself. Everything else is a brochure.
 
-Related guides: [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 
