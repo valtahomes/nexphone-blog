@@ -191,7 +191,7 @@ Then test it. Do not skip this.
 
 Call your own line after 9pm from a number that is not in your contacts. Play an emergency. Play a “can you come Tuesday.” Play something the script does not cover: a complaint, a weird access issue, a landlord who has to approve the spend. Time the gap between hang-up and your phone buzzing. If that gap is measured in hours, keep shopping.
 
-Related guides: [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives)
+Related guides: [Smith.ai Pricing](/blog/smith-ai-pricing) · [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative)
 
 ## Where NexPhone fits
 

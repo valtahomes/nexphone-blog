@@ -201,4 +201,4 @@ Most owners are taking calls the same day they sign up. A year of the $20 plan i
 
 NexPhone answers the business line 24/7 from about $20 a month. It can put the job on your calendar for you. If the product is the phone getting answered at 9pm while your hands are full, [start here](https://nexphone.ai).
 
-Related guides: [Low-Cost Answering Service](/blog/low-cost-answering-service) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Low-Cost Answering Service](/blog/low-cost-answering-service) · [Smith.ai Pricing](/blog/smith-ai-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
