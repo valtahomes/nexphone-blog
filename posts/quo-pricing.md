@@ -167,7 +167,7 @@ The product is the voice that answers, qualifies the job, and passes it to you. 
 
 Use Quo when the thing you need is a shared business line the crew can call and text from, with some AI on the overflow. Use a receptionist when a human has to take a card, run a long intake, or sit inside a CRM you already pay for. Mixing the two in one quote is how people think they bought after-hours coverage and actually bought a cheaper phone app.
 
-Related guides: [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [RingCentral Pricing](/blog/ringcentral-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 

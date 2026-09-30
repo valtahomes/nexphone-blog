@@ -343,7 +343,7 @@ going to invent a burden rate.
 Hire the person if you need a body at a desk. Do not hire them to be a 24/7
 phone tree. That is the job the seven vendors above are for.
 
-Related guides: [Smith.ai Pricing](/blog/smith-ai-pricing) · [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative)
+Related guides: [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [Smith.ai Pricing](/blog/smith-ai-pricing) · [Quo (OpenPhone) Pricing](/blog/quo-pricing)
 
 ## Where NexPhone fits
 
