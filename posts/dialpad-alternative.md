@@ -178,7 +178,7 @@ Do a live test before you port. Call yourself at lunch. Call yourself at 9pm. Ca
 
 For a shop that takes emergency work, the after-hours path matters more than the daytime demo. [After-hours answering service](/blog/after-hours-answering-service) is the same test from the other side: who is actually on the line when the owner is not.
 
-Related guides: [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [RingCentral Pricing](/blog/ringcentral-pricing)
+Related guides: [Nextiva Pricing](/blog/nextiva-pricing) · [Quo (Formerly OpenPhone) Alternatives](/blog/quo-alternatives) · [RingCentral Pricing](/blog/ringcentral-pricing)
 
 ## Where NexPhone fits
 
