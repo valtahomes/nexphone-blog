@@ -18,9 +18,9 @@ At the end of any substantive session — and when asked to update everything �
 - Every SEO post has `cover: images/<slug>/cover.webp` (≤300KB). Real Pexels photograph, never AI-generated. Do not publish without it.
 - Category is `news` | `product` | `guides`. SEO posts are `guides`. Do not invent slugs — the site 404s them.
 - Clusters (AI receptionist, cost, trades, etc.) live in internal links, not in frontmatter.
-- Every draft runs a deslop pass against `docs/anti-slop.md` before publish. The VPS writer does this as a second Grok call.
+- Every draft runs a deslop pass against `docs/anti-slop.md` before publish. The blog agent does this as a second Claude call.
 - Launch cadence through 30 Sep 2026: 4 BOFU/MOFU guides/week, Mon–Thu; Friday = links only.
 
 ## Writer
 
-Grok (`grok-4.6`) on the VPS, `trader@82.180.133.216:~/nexphone-blog-agent/`. Isolated from trading. Do not put API keys in this repo.
+Claude Sonnet (`claude -p` on Howard's own subscription, never the API) from Howard's Mac, `~/Code/nexphone-blog-agent/` (launchd `com.valta.nexphone-blog`), since 5 Oct 2026. Before that: Grok on the trading VPS. Do not put API keys in this repo.

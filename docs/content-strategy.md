@@ -5,7 +5,7 @@ article, target the right keyword, and write it so it converts is on this page. 
 keyword research, no API calls. The keyword data below is a live snapshot — use it as given.
 
 - **Data snapshot:** 19 August 2026 (DataForSEO, United States, English)
-- **Owner:** Howard · **Publisher:** Alex · **Writer:** Grok
+- **Owner:** Howard · **Publisher:** Alex · **Writer:** Claude Sonnet (Grok until 5 Oct 2026)
 - **Repo mechanics:** see [README](../README.md) · **How the site works:** see [architecture.md](architecture.md)
 
 ---
@@ -303,8 +303,8 @@ Match its voice, structure and formatting. Specifically:
   renderer does not parse markdown tables in post bodies.
 - Admit the product's limits somewhere. It builds more trust than it costs.
 - No hype, no "in today's fast-paced world", no AI filler.
-- After the first draft, run a deslop pass against [`docs/anti-slop.md`](anti-slop.md). The VPS
-  writer does this as a second Grok call before the checklist. Do not ship a draft that still
+- After the first draft, run a deslop pass against [`docs/anti-slop.md`](anti-slop.md). The blog
+  agent does this as a second Claude call before the checklist. Do not ship a draft that still
   has binary contrasts, negative listings, colon reveals, or banned words.
 
 ### Custom blocks
@@ -349,7 +349,7 @@ not padded.
 
 ### The assignment format
 
-To commission the next article, fill this in from §4 and paste it to Grok in a **fresh chat** after the
+To commission the next article, fill this in from §4 and paste it to Claude in a **fresh chat** after the
 setup prompt:
 
 ```
@@ -432,8 +432,8 @@ conversion pages in a month instead of eight.
 Why not 5+: the Valta lesson (daily thin posts cut impressions ~60%) and the honesty bar. A BOFU
 comparison with undated prices or invented features costs more than a delayed HVAC page.
 
-Writer: **Grok** (`grok-4.6` via the xAI API), orchestrated on the VPS. See
-`~/nexphone-blog-agent/` on `trader@82.180.133.216`. Human (Alex) can still un-publish by
+Writer: **Claude Sonnet** (`claude -p` on Howard's subscription), run from Howard's Mac since 5 Oct
+2026. See `~/Code/nexphone-blog-agent/README.md`. Human (Alex) can still un-publish by
 re-adding `draft: true`.
 
 Order for the rest of the launch sprint, after the comparison pillar:
@@ -454,7 +454,7 @@ the point of this document. Refresh it when:
 - A keyword's page has been live 90 days and is not ranking, or
 - You are adding keywords not already in §4
 
-Refreshing requires DataForSEO, which Grok does not have. Ask Howard — the endpoints are
+Refreshing requires DataForSEO, which the writer does not have. Ask Howard — the endpoints are
 `dataforseo_labs_google_keyword_overview` for volume/CPC/intent/trend and
 `dataforseo_labs_bulk_keyword_difficulty` for KD. Both are needed: the overview endpoint omits the KD
 field entirely when difficulty is 0, so KD must be confirmed on the bulk endpoint before it is

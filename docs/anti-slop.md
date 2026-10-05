@@ -2,7 +2,7 @@
 
 NexPhone posts are Valta/professional, tone 7/10. Plain, direct, specific. Written for a
 small-business owner on a phone between jobs. Every new draft is edited against this file
-before it ships (VPS writer: second Grok pass).
+before it ships (blog agent: second Claude pass).
 
 Minimum effective edit. Preserve facts, dates, prices, links, frontmatter, and `:::` blocks.
 Do not add claims. Do not invent people. Do not rewrite strong sentences for consistency.

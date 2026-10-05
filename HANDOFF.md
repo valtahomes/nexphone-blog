@@ -4,7 +4,7 @@ Resume cold from this file + [`docs/content-strategy.md`](docs/content-strategy.
 
 ## What this is
 
-Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branch `main`. Howard (`whatshuang1`) has WRITE. Alex publishes by removing `draft: true` (the VPS agent may also publish after a mechanical checklist).
+Git-as-CMS for `nexphone.ai/blog`. Public repo `valtahomes/nexphone-blog`, branch `main`. Howard (`whatshuang1`) has WRITE. Alex publishes by removing `draft: true` (the blog agent on Howard's Mac may also publish after a mechanical checklist).
 
 ## Live (do not link to anything else from a new post)
 
@@ -37,7 +37,7 @@ The first 13 URLs in `QUEUE` were all live by Thu 10 Sep. Mon 14 and Tue 15 Sep 
 13. `grasshopper-vs-google-voice` · 14. `ringcentral-alternative` · 15. `grasshopper-alternative` (12–14 Oct)
 16. `voicemail-greeting-for-business` (Mon 19 Oct)
 
-**Runway ends about 19 Oct.** The agent texts at 6 left (~5 Oct) and 3 left (~12 Oct). Refill before then: DataForSEO data, SERP gate, `ASSIGNMENT` + `CLUSTER` + two eyeballed Pexels IDs per slug. Once Search Console is connected, expanding page-2 posts (§8a) beats adding siblings.
+**Runway ends about 19 Oct, and then the agent stops on purpose.** NexPhone is on hold since 4 Oct (Howard, 5 Oct: let the blog stop when its queue ends), so there are no low-queue texts and no refill. It writes `.queue-finished`, sends one quiet brief note, then does nothing. If NexPhone restarts, refill the same way: DataForSEO data, SERP gate, `ASSIGNMENT` + `CLUSTER` + two eyeballed Pexels IDs per slug. Once Search Console is connected, expanding page-2 posts (§8a) beats adding siblings.
 
 Cut on 15 Sep, so do not re-queue without new data:
 - `best ai receptionist for small business`: same SERP as the live `ai-receptionist-for-small-business` pillar, and KD is now 34. Expand the pillar instead.
@@ -50,16 +50,16 @@ Cut on 15 Sep, so do not re-queue without new data:
 - `business text messaging`, `business texting app`, `vanity phone number`: KD over 30.
 - `answering service for hvac company` (31 Aug): would cannibalise `hvac-answering-service`.
 
-## Writer / VPS
+## Writer (Howard's Mac since 5 Oct 2026)
 
-- **Grok** writes every new guide (`grok-4.6` at `api.x.ai`). Covers are **real Pexels photographs**, never generated. One photo, one URL — never reuse a shot or another frame from the same shoot (25 Aug: pricing + virtual receptionist both got the Kampus gourmet-shop owner). Do not publish a guide without `cover: images/<slug>/cover.webp` (or `.jpg`). `COVER_IDS` in `run.py` hits `images.pexels.com` directly (search HTML is Cloudflare-blocked).
-- Orchestrator: `trader@82.180.133.216:~/nexphone-blog-agent/` (own `.env` chmod 600, own clone, own systemd timer). SSH key `~/.ssh/hostinger_trading`.
-- Secrets live only on the VPS `.env` (xAI key + GitHub deploy key). Paths, never values, in this file.
-- Keyword snapshot stays at `~/nexphone-seo/` on the same box. Do not mix with trading dirs.
-- Each assignment can carry `urls` (vendor pages fetched on top of `PRICE_URLS`) and a `note` passed to Grok verbatim, for example Dialpad's pricing page rendering no prices.
+- **Claude Sonnet** writes every new guide: `claude -p --model sonnet` on Howard's own Claude subscription, never the API (Howard, 5 Oct 2026: "reroute that to... Sonnet"). Until then Grok (`grok-4.6`, `api.x.ai`) wrote them on the trading VPS, billed to Howard's personal xAI key. Covers are **real Pexels photographs**, never generated. One photo, one URL — never reuse a shot or another frame from the same shoot (25 Aug: pricing + virtual receptionist both got the Kampus gourmet-shop owner). Do not publish a guide without `cover: images/<slug>/cover.webp` (or `.jpg`). `COVER_IDS` in `run.py` hits `images.pexels.com` directly (search HTML is Cloudflare-blocked).
+- Orchestrator: `~/Code/nexphone-blog-agent/` on Howard's Mac (`run.py` + its own clone), launchd `com.valta.nexphone-blog` Mon–Thu 09:30 CT (= 10:30 ET), launcher `~/bin/nexphone-blog.sh`, log `~/Library/Logs/nexphone-blog.log`. Full ops, dry run and undo: that folder's `README.md`. The old VPS copy (`trader@82.180.133.216:~/nexphone-blog-agent/`) is parked: its `run.py` exits at once while `MOVED-TO-MAC` exists.
+- No API keys. Claude uses the Mac's `claude` login; git pushes with the Mac's gh login (`whatshuang1`, write). Paths, never values, in this file.
+- Keyword snapshot stays at `~/nexphone-seo/` on the VPS. Do not mix with trading dirs.
+- Each assignment can carry `urls` (vendor pages fetched on top of `PRICE_URLS`) and a `note` passed to the writer verbatim, for example Dialpad's pricing page rendering no prices.
 - **Related guides:** on every publish, `refresh_related()` rewrites a single `Related guides:` line on each guide: up to 3 links, nearest same-cluster posts plus the hubs (`CLUSTER` in `run.py`). It replaced a relinker that appended a new sentence to every post on every publish, 11 deep on the oldest posts by 15 Sep. The first publish after 15 Sep removes those stacks.
-- **Alerts:** a publish goes to the daily brief. "NOTHING published" (empty queue, missing assignment) and FAILED text right away via `~/notify.py --sms`.
-- Ops: `sudo systemctl start nexphone-blog.service` · `systemctl list-timers nexphone-blog.timer` · `journalctl -u nexphone-blog.service`
+- **Alerts** (the Mac's `~/Desktop/Claude/scripts/notify.py`, tag NexPhone): a publish goes to the daily brief. "NOTHING published" (missing assignment) and FAILED text right away. A Claude usage limit skips the day with a brief note; the post goes out on the next run.
+- Ops: dry run `~/bin/nexphone-blog.sh --dry-run DIR` (writes into a scratch clone, sends nothing) · run now, publishes: `launchctl kickstart gui/$(id -u)/com.valta.nexphone-blog` · pause: `launchctl bootout gui/$(id -u)/com.valta.nexphone-blog`
 
 ## Pricing truth (check live page; do not restating a stale grid)
 
