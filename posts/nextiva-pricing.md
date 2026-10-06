@@ -235,4 +235,4 @@ Most owners are taking calls the same day they sign up. Nothing is charged until
 
 NexPhone answers your business line 24/7 for about $20 a month. It will not take a deposit over the phone — if you need that, buy a live service. If you need the phone answered while you are on the job, [start here](https://nexphone.ai).
 
-Related guides: [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [Quo (OpenPhone) Pricing](/blog/quo-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
