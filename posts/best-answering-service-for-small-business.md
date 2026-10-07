@@ -343,7 +343,7 @@ going to invent a burden rate.
 Hire the person if you need a body at a desk. Do not hire them to be a 24/7
 phone tree. That is the job the seven vendors above are for.
 
-Related guides: [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [Nextiva Pricing](/blog/nextiva-pricing) · [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative)
+Related guides: [Rosie AI Receptionist](/blog/rosie-ai-receptionist) · [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [Nextiva Pricing](/blog/nextiva-pricing)
 
 ## Where NexPhone fits
 

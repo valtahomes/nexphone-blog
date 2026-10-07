@@ -191,7 +191,7 @@ Then test it. Do not skip this.
 
 Call your own line after 9pm from a number that is not in your contacts. Play an emergency. Play a “can you come Tuesday.” Play something the script does not cover: a complaint, a weird access issue, a landlord who has to approve the spend. Time the gap between hang-up and your phone buzzing. If that gap is measured in hours, keep shopping.
 
-Related guides: [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [Nextiva Pricing](/blog/nextiva-pricing) · [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative)
+Related guides: [Rosie AI Receptionist](/blog/rosie-ai-receptionist) · [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [Nextiva Pricing](/blog/nextiva-pricing)
 
 ## Where NexPhone fits
 
