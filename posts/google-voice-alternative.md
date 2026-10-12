@@ -174,4 +174,4 @@ When it is, you will know. It is usually a Tuesday night, a missed call, and a j
 
 If that sounds familiar and you want to see what an AI-answered line looks like, [NexPhone](https://nexphone.ai) is built for owners who cannot pick up mid-job. It will not take a deposit over the phone, so if you need that, pair it with something that does.
 
-Related guides: [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [Nextiva Alternatives for Small Teams](/blog/nextiva-alternative) · [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business)
+Related guides: [Grasshopper vs Google Voice](/blog/grasshopper-vs-google-voice) · [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business)
