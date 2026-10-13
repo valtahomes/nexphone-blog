@@ -157,4 +157,4 @@ Whichever you choose, put the number everywhere for a week, count the calls that
 
 NexPhone answers your business line around the clock from $20 a month, and most owners are taking calls the same day they sign up. It will not take a deposit over the phone, so if you need that, buy a live service. If you need the phone answered while you are up a ladder, [start here](https://nexphone.ai).
 
-Related guides: [Nextiva Pricing](/blog/nextiva-pricing) · [Dialpad Alternatives for Small Businesses](/blog/dialpad-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [RingCentral Alternatives for Small Businesses](/blog/ringcentral-alternative) · [Nextiva Pricing](/blog/nextiva-pricing) · [After-Hours Answering Service](/blog/after-hours-answering-service)
