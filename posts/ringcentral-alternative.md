@@ -125,7 +125,7 @@ Stay as well if your team lives in its video and chat tools and the phone is one
 
 For anything involving texting, read [10DLC registration](/blog/10dlc-registration) first. The paperwork is the same everywhere, and it is the step most owners miss.
 
-Related guides: [Grasshopper vs Google Voice](/blog/grasshopper-vs-google-voice) · [Google Voice Alternatives for Business](/blog/google-voice-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Grasshopper vs Google Voice](/blog/grasshopper-vs-google-voice) · [Grasshopper Alternatives for Small Business](/blog/grasshopper-alternative) · [After-Hours Answering Service](/blog/after-hours-answering-service)
 
 ## Where NexPhone fits
 
