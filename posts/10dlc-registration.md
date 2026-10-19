@@ -165,4 +165,4 @@ Get the number working. File the campaign. Then turn the texts on. Doing it in t
 
 NexPhone is a US business line with an AI receptionist. Calls, voicemail, and inbound texts work from day one; they file 10DLC after setup so outbound SMS can follow once carriers clear the campaign. If that is the order you need, [start here](https://nexphone.ai).
 
-Related guides: [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)
+Related guides: [Voicemail Greeting for Business](/blog/voicemail-greeting-for-business) · [The Best Answering Services for Small Business in 2026](/blog/best-answering-service-for-small-business) · [After-Hours Answering Service](/blog/after-hours-answering-service)
